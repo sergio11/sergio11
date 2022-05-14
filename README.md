@@ -67,7 +67,7 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 	
 <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=sergio11" />
 	
-## Some Personal Projects 
+## 👨‍💻 Some Personal Projects 
 
 ### Bullkeeper (Android App - Parental control tool focused on the management of the digital lifestyle of children/adolescents)
 

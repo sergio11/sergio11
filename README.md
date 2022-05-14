@@ -6,6 +6,11 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 
 ![Profile views](https://gpvc.arturio.dev/sergio11)
 
+## Reach me on:
+
+<a  target="_blank" href="https://twitter.com/SergioReact418"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+
 ## :computer: Developer Skills
 
 <details>
@@ -106,11 +111,5 @@ Parental control tool focused on the management of the digital lifestyle of chil
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_1.png" />
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_3.png" />
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_2.png" />
-
-	
-## Reach me on:
-
-<a  target="_blank" href="https://twitter.com/SergioReact418"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 
 

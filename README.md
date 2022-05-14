@@ -8,6 +8,7 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 
 <a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 
+<a target="_blank" href="https://www.linkedin.com/in/sergio-s%C3%A1nchez-s%C3%A1nchez-662535b5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## :computer: Developer Skills
 
@@ -104,6 +105,4 @@ Parental control tool focused on the management of the digital lifestyle of chil
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_2.png" />
 
 
-### :mailbox: Please contact me
 
-<a target="_blank" href="https://www.linkedin.com/in/sergio-s%C3%A1nchez-s%C3%A1nchez-662535b5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

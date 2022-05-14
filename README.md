@@ -6,8 +6,6 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 
 ![Profile views](https://gpvc.arturio.dev/sergio11)
 
-<a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-
 ## :computer: Developer Skills
 
 <details>
@@ -113,5 +111,6 @@ Parental control tool focused on the management of the digital lifestyle of chil
 ## Reach me on:
 
 <a  target="_blank" href="https://twitter.com/SergioReact418"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 
 

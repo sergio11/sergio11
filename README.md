@@ -8,8 +8,6 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 
 <a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 
-<a target="_blank"  href="https://www.linkedin.com/in/sergio-s%C3%A1nchez-s%C3%A1nchez-662535b5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 ## :computer: Developer Skills
 
 <details>
@@ -57,13 +55,17 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 	</ul>
 </details>
 
-## Github Stats
-<hr>
-
- <img  src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true" />
+## 💳 Github Profile Summary Card
 	
+<img width='400' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergio11&theme=vue" />
+
 ## 🏆 Trophy Stats
+	
 <img width='400' src="https://github-profile-trophy.vercel.app/?username=sergio11" />
+	
+## ⏱ Streak Stats
+	
+<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=sergio11" />
 	
 ## Some Personal Projects 
 

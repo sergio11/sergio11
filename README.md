@@ -12,6 +12,7 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 <a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 <a target="_blank" href="https://stackoverflow.com/users/5701248/sergio-s%c3%a1nchez-s%c3%a1nchez?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"></a>
 
+<a target="_blank" href="https://www.instagram.com/sergiosanchezsanchez11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ## :computer: Developer Skills
 

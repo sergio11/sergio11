@@ -115,4 +115,9 @@ Parental control tool focused on the management of the digital lifestyle of chil
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_3.png" />
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_2.png" />
 
+### IoT Streaming architecture
+
+<img src="https://raw.githubusercontent.com/sergio11/iot_event_streaming_architecture/master/iot_streaming_architecture.png" />
+
+
 

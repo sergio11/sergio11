@@ -111,6 +111,8 @@ Parental control tool focused on the management of the digital lifestyle of chil
 
 ### Rick And Morty Kotlin Multiplatform Mobile App
 
+An App architecture example based on Kotlin Multiplatform Mobile.
+
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_1.png" />
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_3.png" />
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_2.png" />

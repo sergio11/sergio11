@@ -124,5 +124,15 @@ In this story I will show how we can deal the challenges of time series data and
 
 <img src="https://raw.githubusercontent.com/sergio11/iot_event_streaming_architecture/master/iot_streaming_architecture.png" />
 
+### An architectural approach to implementing a large-scale document search engine based on Apache Nifi.
+
+An architectural proposal for the storage and indexing of the content of a large number of files of various formats, which will offer the ability to perform advanced searches and improve content organization.
+
+This project demonstrates how Apache Nifi is a very powerful tool and the integration capabilities it has with other technologies such as MongoDB, Apache Kafka, HDFS …
+
+<img src="https://github.com/sergio11/document_search_engine_architecture/blob/master/images/document_search_engine_architecture.png" />
+
+
+
 
 

@@ -63,15 +63,15 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 
 ## 💳 Github Profile Summary Card
 	
-<img width='400' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergio11&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergio11&theme=vue" />
 
 ## 🏆 Trophy Stats
 	
-<img width='400' src="https://github-profile-trophy.vercel.app/?username=sergio11" />
+<img  src="https://github-profile-trophy.vercel.app/?username=sergio11" />
 	
 ## ⏱ Streak Stats
 	
-<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=sergio11" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio11" />
 	
 ## 👨‍💻 Some Personal Projects 
 

@@ -103,6 +103,8 @@ Parental control tool focused on the management of the digital lifestyle of chil
 
 ### Movie Addicts App (MVI + Clean architecture and modularization based on features and layers)
 
+A simple project to demonstrate an approach based on MVI + Clean architecture and modularization based on features and layers.
+
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/movie_addicts_1.png" />
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/movie_addicts_2.png" />

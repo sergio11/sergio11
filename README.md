@@ -75,7 +75,7 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 
 ## 🏆 Trophy Stats
 	
-<img  src="https://github-profile-trophy.vercel.app/?username=sergio11" />
+<img  src="https://github-profile-trophy.vercel.app/?username=sergio11&column=8&theme=onedark" />
 	
 ## ⏱ Streak Stats
 	

@@ -1,22 +1,18 @@
 # Hi, I'm Sergio Sánchez Sánchez 👋🏽
 
+<img src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/profile_header.png" style="max-width: 100%;" />
 
-<img src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/profile_header.png" style="max-width: 100%;">
-
+<a target="_blank" href="https://www.linkedin.com/in/sergio-s%C3%A1nchez-s%C3%A1nchez-662535b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a target="_blank" href="https://www.instagram.com/sergiosanchezsanchez11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+<a  target="_blank" href="https://twitter.com/SergioReact418"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a target="_blank" href="https://stackoverflow.com/users/5701248/sergio-s%c3%a1nchez-s%c3%a1nchez?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"></a>
 
 <img width=256 align="right" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif" />
 
 I am a **Native Mobile developer**, with some experience in Hybrid development and Cross-Platform development with technologies such as Xamarin, Ionic, Flutter .... I also have knowledge and experience in server-side technologies such as PHP (Symfony, Laravel, Silex, Slim), Python (Django, Flask), NodeJS (Express, Sailsjs) and above all I love the **Spring ecosystem** and JavaEE or Jakarta EE ;)
 
 ![Profile views](https://gpvc.arturio.dev/sergio11)
-
-## Reach me on:
-
-<a  target="_blank" href="https://twitter.com/SergioReact418"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-<a target="_blank" href="https://stackoverflow.com/users/5701248/sergio-s%c3%a1nchez-s%c3%a1nchez?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"></a>
-<a target="_blank" href="https://www.instagram.com/sergiosanchezsanchez11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a target="_blank" href="https://www.linkedin.com/in/sergio-s%C3%A1nchez-s%C3%A1nchez-662535b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## :computer: Developer Skills
 

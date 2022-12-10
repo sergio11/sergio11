@@ -80,8 +80,6 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 ## ⏱ Streak Stats
 	
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio11" />
-
-<img src="https://activity-graph.herokuapp.com/graph?username=sergio11&custom_title=Sergio%20S%C3%A1nchez%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" />
 	
 ## 👨‍💻 Some Personal Projects 
 

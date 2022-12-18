@@ -142,6 +142,15 @@ This project demonstrates how Apache Nifi is a very powerful tool and the integr
 
 <img src="https://github.com/sergio11/document_search_engine_architecture/blob/master/images/document_search_engine_architecture.png" />
 
+### Trust Certification System - Platform for the management and issuance of digital certificates based on blockchain technology.
+
+Issuance of academic certificates or attendance certificates with Blockchain.
+
+TCS offers a simple system that eliminates paper traffic and complex operating procedures. Allows the creation of unique certificates, immediately verifiable and unfalsifiable for all types of academic diplomas.
+
+TCS uses Blockchain technology in order to provide inviolability, immutability and easy verification for all your certificates. This platform guarantees students and certificate authorities the possibility of issuein a digital and unforgeable version of their certificates and it is guaranteed that any interested third party can verify their integrity.
+
+<img src="https://github.com/sergio11/trust_certification_system_blockchain/blob/main/doc/trust_certification_system_diagram_v1.drawio.svg" />
 
 
 

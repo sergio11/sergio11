@@ -84,7 +84,9 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 ## 👨‍💻 Some Personal Projects 
 
 ### Bullkeeper (Android App - Parental control tool focused on the management of the digital lifestyle of children/adolescents)
-
+	
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/bullkeeper_app">clicking here</a>
+	
 Parental control tool focused on the management of the digital lifestyle of children/adolescents whose objective is to identify potentially violent situations and create an ecosystem that facilitates early detection of various disorders derived from an inadequate or unreliable use of technology. information.
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_one.png" />
@@ -94,6 +96,8 @@ Parental control tool focused on the management of the digital lifestyle of chil
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_tree.png" />
 
 ### Bullkeeper Kids (Android App - Tool aimed at children/adolescents to manage their fun time and ensure the rules of parental control set.)
+	
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/bullkeeper_kids_app">clicking here</a>
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_one.png" />
 
@@ -102,6 +106,8 @@ Parental control tool focused on the management of the digital lifestyle of chil
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_tree.png" />
 
 ### A Spotify clone for Android
+	
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/spotify-android">clicking here</a>
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/spotify_android_image_1.png" />
 
@@ -112,6 +118,8 @@ Parental control tool focused on the management of the digital lifestyle of chil
 ### Movie Addicts App (MVI + Clean architecture and modularization based on features and layers)
 
 A simple project to demonstrate an approach based on MVI + Clean architecture and modularization based on features and layers.
+	
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/MovieAddicts">clicking here</a>
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/movie_addicts_1.png" />
 
@@ -122,6 +130,8 @@ A simple project to demonstrate an approach based on MVI + Clean architecture an
 ### Rick And Morty Kotlin Multiplatform Mobile App
 
 An App architecture example based on Kotlin Multiplatform Mobile.
+	
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/RickAndMortyKMP">clicking here</a>
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_1.png" />
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_3.png" />
@@ -131,6 +141,8 @@ An App architecture example based on Kotlin Multiplatform Mobile.
 
 With the boom in the number of IoT devices in recent years, relatively new use cases for IoT and sensor data, such as smart factories and smart cities, have led to time series data being produced on a large scale. In such use cases, a large number of different types of sensors send terabytes of data to be ingested, so that real-time monitoring can improve efficiency and avoid failures.
 In this story I will show how we can deal the challenges of time series data and handle the high performance of such data at scale, using the Kafka Connect APIs for data ingestion and consolidation and the Kafka Streams API for aggregation and processing of data.
+	
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/iot_event_streaming_architecture">clicking here</a>
 
 <img src="https://raw.githubusercontent.com/sergio11/iot_event_streaming_architecture/master/iot_streaming_architecture.png" />
 
@@ -140,6 +152,8 @@ An architectural proposal for the storage and indexing of the content of a large
 
 This project demonstrates how Apache Nifi is a very powerful tool and the integration capabilities it has with other technologies such as MongoDB, Apache Kafka, HDFS …
 
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/document_search_engine_architecture">clicking here</a>
+	
 <img src="https://github.com/sergio11/document_search_engine_architecture/blob/master/images/document_search_engine_architecture.png" />
 
 ### Trust Certification System - Platform for the management and issuance of digital certificates based on blockchain technology.
@@ -149,7 +163,9 @@ Issuance of academic certificates or attendance certificates with Blockchain.
 TCS offers a simple system that eliminates paper traffic and complex operating procedures. Allows the creation of unique certificates, immediately verifiable and unfalsifiable for all types of academic diplomas.
 
 TCS uses Blockchain technology in order to provide inviolability, immutability and easy verification for all your certificates. This platform guarantees students and certificate authorities the possibility of issuein a digital and unforgeable version of their certificates and it is guaranteed that any interested third party can verify their integrity.
-
+	
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/trust_certification_system_blockchain">clicking here</a>
+	
 <img src="https://github.com/sergio11/trust_certification_system_blockchain/blob/main/doc/trust_certification_system_diagram_v1.drawio.svg" />
 
 

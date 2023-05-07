@@ -83,6 +83,20 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 	
 ## 👨‍💻 Some Personal Projects 
 
+### ArtNiche - A NFT Art collectibles marketplace for digital artists.
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/art_collectible_marketplace_app">clicking here</a>
+
+Explore exclusive art collectibles by the most in-demand creators, trade with other collectors in the Marketplace, and mint your own NFTs all in one place!
+
+ArtNiche try to eliminate some of the hurdles usually met by content creators who desire to monetize their art by serving it directly to the public. Not only is owning an NFT a trend nowadays, but it has also become a status symbol for those who get into it. In any case, it is an actual investment that has become profitable for both collectors and buyers.
+
+<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_1.png" />
+
+<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_2.png" />
+
+<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_3.png" />
+
 ### Bullkeeper (Android App - Parental control tool focused on the management of the digital lifestyle of children/adolescents)
 	
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/bullkeeper_app">clicking here</a>

@@ -12,7 +12,9 @@
 
 I am a **Native Mobile developer**, with some experience in Hybrid development and Cross-Platform development with technologies such as Xamarin, Ionic, Flutter .... I also have knowledge and experience in server-side technologies such as PHP (Symfony, Laravel, Silex, Slim), Python (Django, Flask), NodeJS (Express, Sailsjs) and above all I love the **Spring ecosystem** and JavaEE or Jakarta EE ;)
 
-![Profile views](https://gpvc.arturio.dev/sergio11)
+## Profile Views
+
+<img width="200px" src="https://profile-counter.glitch.me/sergio11/count.svg" />
 
 ## :computer: Developer Skills
 

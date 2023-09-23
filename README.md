@@ -110,7 +110,6 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 <img  src="https://github-profile-trophy.vercel.app/?username=sergio11&column=8&theme=onedark" />
 
 
-
 ## :star2: StarDev, Stackoverflow and Medium profiles
 
 <a href="https://stardev.io/developers/sergio11"><img alt="Check out sergio11's profile on stardev.io" src="https://stardev.io/developers/sergio11/badge/languages/country.svg" /></a>
@@ -124,6 +123,20 @@ I am a **Native Mobile developer**, with some experience in Hybrid development a
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio11" />
 	
 ## 👨‍💻 Some Personal Projects 
+
+### PicConnect - Flutter application to explore and connect through photography. Using clean architecture with BLoC UI pattern.
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/pic_connect_app">clicking here</a>
+
+Pic Connect is a dynamic social networking app that empowers users to share their life's moments through captivating stories.
+
+With a focus on multimedia content, users can post photos and videos, adding creative flair through tags and location data. The platform fosters a vibrant community, enabling likes, comments, and shares. Pic Connect isn't just about socializing; it's a canvas for visual storytelling.
+
+<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_one.png" />
+
+<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_two.png" />
+
+<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_three.png" />
 
 ### ArtNiche - A NFT Art collectibles marketplace for digital artists.
 

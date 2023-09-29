@@ -9,7 +9,17 @@
 
 <img width=256 align="right" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif" />
 
-I am a **Native Mobile developer**, with some experience in Hybrid development and Cross-Platform development with technologies such as Xamarin, Ionic, Flutter .... I also have knowledge and experience in server-side technologies such as PHP (Symfony, Laravel, Silex, Slim), Python (Django, Flask), NodeJS (Express, Sailsjs) and above all I love the **Spring ecosystem** and JavaEE or Jakarta EE ;)
+👋 Hello, I'm an experienced Android developer with a deep passion for crafting exceptional mobile experiences 📱. My Android journey has equipped me with the skills to deliver robust and user-friendly applications, and I continue to push the boundaries of what's possible in the Android ecosystem.
+
+I'm also actively expanding my skill set and diving into the world of Flutter, exploring new horizons in cross-platform development 🚀.
+
+On the server-side, I'm passionate about exploring various technologies. I've worked with PHP (Symfony, Laravel, Silex, Slim), Python (Django, Flask), and Node.js (Express, Nest.js). But my true love lies in the Spring ecosystem and JavaEE or Jakarta EE ☕.
+
+Beyond coding, I'm an enthusiast of software architectures and clean code principles, believing that well-structured code is the foundation of any great project 🏗️🧹.
+
+Additionally, I have a keen interest in cybersecurity, IoT, and blockchain, always looking for innovative ways to integrate these passions into my development work 🔒🌐⛓️.
+
+Let's connect and discuss all things tech! 💻💬
 
 ## Profile Views
 

@@ -148,13 +148,13 @@ With a focus on multimedia content, users can post photos and videos, adding cre
 
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_three.png" />
 
-### ArtNiche - A NFT Art collectibles marketplace for digital artists.
+### 🎨 ArtNiche - Where Digital Art Meets NFT Collectibles
 
-Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/art_collectible_marketplace_app">clicking here</a>
+Welcome to ArtNiche, your gateway to a world of NFT art collectibles for digital artists. 🚀<a target="_blank" href="https://github.com/sergio11/art_niche_nft_marketplace">Click here to explore the repository!</a> 
 
-Explore exclusive art collectibles by the most in-demand creators, trade with other collectors in the Marketplace, and mint your own NFTs all in one place!
+Discover the extraordinary within the realm of digital art—exclusive creations by the industry's most sought-after creators. 💎 Dive into the Marketplace, where collectors unite to trade, and embark on your NFT journey by minting your own digital treasures, all within a single platform! 🖼️
 
-ArtNiche try to eliminate some of the hurdles usually met by content creators who desire to monetize their art by serving it directly to the public. Not only is owning an NFT a trend nowadays, but it has also become a status symbol for those who get into it. In any case, it is an actual investment that has become profitable for both collectors and buyers.
+ArtNiche is on a mission to break down barriers faced by content creators seeking to share their art directly with the public. 🌟 In today's digital landscape, owning an NFT is not just a trend; it's a status symbol and a genuine investment. 💰 Both collectors and buyers have found profitability in this ever-evolving space, making it an exciting venture for all. 🌐
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_1.png" />
 

@@ -134,13 +134,16 @@ Let's connect and discuss all things tech! 💻💬
 	
 ## 👨‍💻 Some Personal Projects 
 
-### PicConnect - Flutter application to explore and connect through photography. Using clean architecture with BLoC UI pattern.
+### 📸 PicConnect PicConnect - Explore and Connect Through Photography 🌟.
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/pic_connect_app">clicking here</a>
 
-Pic Connect is a dynamic social networking app that empowers users to share their life's moments through captivating stories.
+PicConnect is not your ordinary social networking app; it's a vibrant community where you can share life's moments through captivating visual stories. 🌅🏞️🌄
+Share your photos and videos, sprinkle creativity with tags and location data, and watch your moments come alive. 📷🎨📍
 
-With a focus on multimedia content, users can post photos and videos, adding creative flair through tags and location data. The platform fosters a vibrant community, enabling likes, comments, and shares. Pic Connect isn't just about socializing; it's a canvas for visual storytelling.
+* **👍 Engage, Connect, Repeat 👍**: Connect with like-minded individuals who appreciate the art of visual storytelling. Get likes, comments, and shares as your moments light up PicConnect. 🤝💬🔄
+* **🌟 More Than Socializing 🌟**: PicConnect is where moments become memories, and connections transcend screens. Whether it's a breathtaking sunset or an adrenaline-pumping adventure, your world awakens on PicConnect. 🌆🚀
+* **📋 Discover More in Our README 📋**: Explore the comprehensive overview of PicConnect, including its features and the technology stack choices, in our README. 📄🔍
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_one.png" />
 

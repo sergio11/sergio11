@@ -187,8 +187,18 @@ Join us in the journey to ensure a safe, balanced, and responsible digital lifes
 
 <img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_tree.png" />
 
-### Bullkeeper Kids (Android App - Tool aimed at children/adolescents to manage their fun time and ensure the rules of parental control set.)
-	
+### 📱 BullKeeper Kids Android App: A tool for children and adolescents to manage their digital time responsibly.
+
+Empowering young digital explorers to balance fun and responsibility while adhering to parental controls. Enjoy a user-friendly setup, synchronized device resources, safety alerts, integrated messaging, and device usage control. 🎮👦👧💬🔒
+
+* **🌟 Fun Time Management:** Encourages a balance between fun and responsibility in a safe and enjoyable digital adventure.
+* **🔧 User-Friendly Assistant:** Easy setup with no technical expertise required.
+* **👪 Child/Teen Account Integration:** Creates a secure and personalized digital environment.
+* **🔄 Synchronized Device Resources:** Keeps you updated with notifications of any device changes.
+* **🆘 Emergency Alerts and Safety:** Provides access to help and "pick me up" alerts directly from the app.
+* **💬 Integrated Messaging System:** Fosters easy communication between children/adolescents and supervisors.
+* **⏰🔒 Device Usage Control:** Monitors screen time and enforces parental control rules.
+
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/bullkeeper_kids_app">clicking here</a>
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_one.png" />
@@ -247,7 +257,7 @@ Embark on a journey to unlock the potential of a large-scale document search eng
 
 📦 Key Features:
 
-* **💡 Innovative Approach:** We present a visionary approach for efficiently managing and indexing content from a multitude of files, fostering advanced search functionalities and elevating content organization to new heights.
+* **💡 Innovative Approach:** I present a visionary approach for efficiently managing and indexing content from a multitude of files, fostering advanced search functionalities and elevating content organization to new heights.
 * **🛠️ The Power of Integration:** This project serves as a testament to Apache NiFi's immense capabilities, showcasing its seamless integration with other cutting-edge technologies such as MongoDB, Apache Kafka, HDFS, and more. It's a testament to the platform's adaptability and versatility in creating robust data solutions.
 
 Explore the full potential of document search and data management by visiting the repository <a target="_blank" href="https://github.com/sergio11/document_search_engine_architecture"> here</a>. 🌐🔍

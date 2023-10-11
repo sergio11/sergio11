@@ -9,17 +9,15 @@
 
 <img width=256 align="right" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif" />
 
-👋 Hello, I'm an experienced Android developer with a deep passion for crafting exceptional mobile experiences 📱. My Android journey has equipped me with the skills to deliver robust and user-friendly applications, and I continue to push the boundaries of what's possible in the Android ecosystem.
+👋 Hello, I'm an accomplished developer with over 8 years of experience, specializing in crafting exceptional mobile experiences 📱. As a seasoned Android developer, I've delivered a diverse portfolio of projects, demonstrating my commitment to building robust and user-friendly applications. Over the years, I've honed my skills to navigate the ever-evolving Android ecosystem, consistently pushing the boundaries of what's possible.
 
-I'm also actively expanding my skill set and diving into the world of Flutter, exploring new horizons in cross-platform development 🚀.
+* **🌟 iOS Proficiency:** In addition to my Android expertise, I'm a skilled native iOS developer. My proficiency extends to both major mobile platforms, allowing me to create seamless user experiences across Android and iOS devices.
+* **🚀 Venturing into Kotlin Multiplatform:** I'm also at the forefront of exploring Kotlin Multiplatform, an exciting cross-platform solution that promises cutting-edge mobility solutions. My journey into this technology is driven by a passion for pushing the boundaries of what's possible in the world of mobile development.
+* **💼 Versatility:** My server-side expertise is equally impressive, with experience in PHP (Symfony, Laravel, Silex, Slim), Python (Django, Flask), and Node.js (Express, Nest.js). However, my true love lies within the Spring ecosystem and JavaEE or Jakarta EE. ☕
+* **🏗️ Architect of Code:** Beyond coding, I'm an advocate for software architectures and clean code principles, firmly believing that well-structured code is the foundation of any great project. 🧹
+* **🔒 Tech Enthusiast:** My enthusiasm for technology goes beyond app development. I have a profound interest in cybersecurity, IoT, and blockchain. My journey is marked by numerous educational achievements and certifications in these fields, uniquely equipping me to integrate these passions into my work. 🌐⛓️
 
-On the server-side, I'm passionate about exploring various technologies. I've worked with PHP (Symfony, Laravel, Silex, Slim), Python (Django, Flask), and Node.js (Express, Nest.js). But my true love lies in the Spring ecosystem and JavaEE or Jakarta EE ☕.
-
-Beyond coding, I'm an enthusiast of software architectures and clean code principles, believing that well-structured code is the foundation of any great project 🏗️🧹.
-
-Additionally, I have a keen interest in cybersecurity, IoT, and blockchain, always looking for innovative ways to integrate these passions into my development work 🔒🌐⛓️.
-
-Let's connect and discuss all things tech! 💻💬
+Let's connect and dive deep into all things tech! 💻💬
 
 ## Profile Views
 

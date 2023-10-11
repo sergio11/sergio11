@@ -167,6 +167,8 @@ ArtNiche is on a mission to break down barriers faced by content creators seekin
 
 ### 🧒📱 Bullkeeper: Digital Parenting Reinvented 🚀
 
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/bullkeeper_app">clicking here</a>
+
 Are you a concerned parent looking to safeguard your children's digital experiences? Enter Bullkeeper, your ultimate Android app companion designed with your kids' digital well-being in mind. 🛡️
 
 👁️‍🗨️ The Mission: Bullkeeper is on a mission to create a safer digital ecosystem for children and adolescents. I am dedicated to identifying potentially harmful situations and fostering early detection of tech-related disorders that can result from inadequate or unreliable technology use. 🚫🌪️
@@ -180,12 +182,6 @@ Are you a concerned parent looking to safeguard your children's digital experien
 * **📥 Repository:** Explore the project's repository here to learn more.
    
 Join us in the journey to ensure a safe, balanced, and responsible digital lifestyle for your loved ones with Bullkeeper. 🌟
-
-### Bullkeeper (Android App - Parental control tool focused on the management of the digital lifestyle of children/adolescents)
-	
-Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/bullkeeper_app">clicking here</a>
-	
-Parental control tool focused on the management of the digital lifestyle of children/adolescents whose objective is to identify potentially violent situations and create an ecosystem that facilitates early detection of various disorders derived from an inadequate or unreliable use of technology. information.
 
 <img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_one.png" />
 

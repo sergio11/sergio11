@@ -113,7 +113,7 @@ Let's connect and dive deep into all things tech! 💻💬
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio11&layout=compact&hide=Roff&langs_count=10&theme=dark" />
 
-<img width="100%" src="https://myreadme.vercel.app/api/embed/sergio11?panels=userstatistics,toprepositories" />
+<img width="60%" src="https://myreadme.vercel.app/api/embed/sergio11?panels=userstatistics,toprepositories" />
 
 ## 🏆 Trophy Stats
 	

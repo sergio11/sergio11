@@ -67,7 +67,13 @@ Let's connect and dive deep into all things tech! 💻💬
  <img loading="lazy" src="./images/angular_logo.png" height="40">
  <img loading="lazy" src="./images/firebase_logo.png" height="40">
  <img loading="lazy" src="./images/yolo_logo.svg" height="40">
- <img loading="lazy" src="https://vuepress.vuejs.org/hero.png" height="40">
+ <img loading="lazy" src="./images/flask_logo.png" height="40">
+</p>
+
+<p>
+ <img loading="lazy" src="./images/ruby_logo.png" height="40">
+ <img loading="lazy" src="./images/minio_logo.jpg" height="40">
+  <img loading="lazy" src="./images/apache_nifi_logo.png" height="40">
 </p>
 
 ## 💳 Github Profile Summary Card

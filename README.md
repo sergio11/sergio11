@@ -71,9 +71,13 @@ Let's connect and dive deep into all things tech! 💻💬
 </p>
 
 <p>
- <img loading="lazy" src="./images/ruby_logo.png" height="40">
- <img loading="lazy" src="./images/minio_logo.jpg" height="40">
-  <img loading="lazy" src="./images/apache_nifi_logo.png" height="40">
+  <img loading="lazy" src="./images/ruby_logo.png" height="40">
+  <img loading="lazy" src="./images/minio_logo.jpg" height="40">
+  <img loading="lazy" src="./images/logstash_logo.png" height="40">
+  <img loading="lazy" src="./images/kibana_logo.png" height="40">
+  <img loading="lazy" src="./images/elasticsearch_logo.png" height="40">
+  <img loading="lazy" src="./images/debian_logo.png" height="40">
+  <img loading="lazy" src="./images/ios_logo.jpg" height="40">
 </p>
 
 ## 💳 Github Profile Summary Card

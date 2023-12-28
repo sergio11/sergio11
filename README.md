@@ -109,6 +109,25 @@ Let's connect and dive deep into all things tech! 💻💬
 	
 ## 👨‍💻 Some Personal Projects 
 
+### 🚀 QuickReels: A Fast-paced Multimedia Experience.
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/quick_reels_flutter">clicking here</a>
+
+📱🎬 QuickReels is an innovative Flutter application that offers immersive multimedia experiences. Seamlessly integrating GetX and Firebase, it enables efficient state management, routing, and secure authentication.
+
+* **🔄 Key Features:** GetX integration for efficient management, secure authentication via Firebase, focus on multimedia content, and scalable architecture.
+
+* **🛠️ Technologies Used:** Flutter for UI, GetX for state management, and Firebase for authentication and data management.
+
+✨ QuickReels delivers an intuitive interface to explore multimedia content, ensuring a dynamic and enriching user experience.
+
+<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_1.png" />
+
+<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_2.png" />
+
+<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_3.png" />
+
+
 ### 📸 PicConnect - Explore and Connect Through Photography 🌟.
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/pic_connect_app">clicking here</a>

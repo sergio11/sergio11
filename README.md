@@ -109,6 +109,16 @@ Let's connect and dive deep into all things tech! 💻💬
 	
 ## 👨‍💻 Some Personal Projects 
 
+### TVNexa: 🌐 Bringing the World to Your Screen! 📺, using Clean Architecture and MVI UI patterns along with Jetpack Compose and Material Design
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/tvnexa_androidtv">clicking here</a>
+
+🌐 TvNexa is not just another streaming service; it's a gateway to a diverse universe of television channels from around the world. The platform is meticulously crafted with innovation at its core, ensuring that Android users have access to an unparalleled selection of global content right at their fingertips.
+
+**Consuming TvNexa Architecture Services:** TvNexa leverages the services provided by TvNexa Architecture, which offers a robust backend infrastructure for handling diverse television content. For detailed information about the backend architecture and services, please refer to [TvNexa Architecture](https://github.com/sergio11/tvnexa_architecture).
+
+<img width=570 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/tv_nexa_picture_1.png" />
+
 ### 🚀 QuickReels: A Fast-paced Multimedia Experience.
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/quick_reels_flutter">clicking here</a>

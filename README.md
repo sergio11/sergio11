@@ -110,6 +110,16 @@ Let's connect and dive deep into all things tech! 💻💬
 	
 ## 👨‍💻 Some Personal Projects 
 
+### RealInsight 🌟: Where Authentic Connections Happen 🌐
+
+RealInsight is an **iOS application** built using **SwiftUI** that aims to provide similar functionality to BeReal. It offers a platform for users to connect and share insights, thoughts, and experiences in a supportive community environment. 📱💬🌟
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/real_insight_swiftui">clicking here</a>
+
+<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_1.png" />
+<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_2.png" />
+<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_3.png" />
+
 ### TVNexa: 🌐 Bringing the World to Your Screen! 📺, using Clean Architecture and MVI UI patterns along with Jetpack Compose and Material Design
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/tvnexa_androidtv">clicking here</a>

@@ -40,6 +40,9 @@ Let's connect and dive deep into all things tech! 💻💬
   <img loading="lazy" src="./images/html5_logo.png"  height="40">
   <img loading="lazy" src="./images/css_logo.png" height="40">
   <img loading="lazy" src="./images/nestjs_logo.png" height="40">
+  <img loading="lazy" src="./images/swift_language.png" height="40">
+  <img loading="lazy" src="./images/solidity_language.png" height="40">
+  <img loading="lazy" src="./images/polygon_blockchain_logo.png" height="40">
 </p>
 
 <p>

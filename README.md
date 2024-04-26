@@ -9,7 +9,7 @@
 
 <img width=256 align="right" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif" />
 
-👋 Hello, I'm an accomplished developer with over 8 years of experience, specializing in crafting exceptional mobile experiences 📱. As a seasoned Android developer, I've delivered a diverse portfolio of projects, demonstrating my commitment to building robust and user-friendly applications. Over the years, I've honed my skills to navigate the ever-evolving Android ecosystem, consistently pushing the boundaries of what's possible.
+👋 Hello, I'm an accomplished developer with over 9 years of experience, specializing in crafting exceptional mobile experiences 📱. As a seasoned Android developer, I've delivered a diverse portfolio of projects, demonstrating my commitment to building robust and user-friendly applications. Over the years, I've honed my skills to navigate the ever-evolving Android ecosystem, consistently pushing the boundaries of what's possible.
 
 * **🌟 iOS Proficiency:** In addition to my Android expertise, I'm a skilled native iOS developer. My proficiency extends to both major mobile platforms, allowing me to create seamless user experiences across Android and iOS devices.
 * **🚀 Venturing into Kotlin Multiplatform:** I'm also at the forefront of exploring Kotlin Multiplatform, an exciting cross-platform solution that promises cutting-edge mobility solutions. My journey into this technology is driven by a passion for pushing the boundaries of what's possible in the world of mobile development.

@@ -31,9 +31,8 @@ Let's connect and dive deep into all things tech! 💻💬
   <img loading="lazy" src="./images/github.svg" height="40">
   <img loading="lazy" src="./images/gitkraken_logo.png" height="40">
   <img loading="lazy" src="./images/intellij-idea_logo.png"  height="40">
-  <img loading="lazy" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vqtv5cx7zkngd7heywck"  height="40">
   <img loading="lazy" src="./images/visual_code_icon.png"  height="40">
-  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"  height="40">
+  <img loading="lazy" src="./images/vue_logo.png"  height="40">
   <img loading="lazy" src="./images/javascript_logo.png"  height="40">
   <img loading="lazy" src="./images/typescript_logo.png"  height="40">
   <img loading="lazy" src="./images/postman_logo.png" height="40">
@@ -58,6 +57,9 @@ Let's connect and dive deep into all things tech! 💻💬
   <img loading="lazy" src="./images/mariadb_logo.svg" height="40">
   <img loading="lazy" src="./images/mongodb_logo.svg" height="40">
   <img loading="lazy" src="./images/sqlite_logo.png" height="40">
+  <img loading="lazy" src="./images/tensor_flow_logo.png" height="40">
+  <img loading="lazy" src="./images/keras_logo.png" height="40">
+  <img loading="lazy" src="./images/jupyter_notebook_logo.webp" height="40">
 </p>
 
 <p>

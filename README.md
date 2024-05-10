@@ -84,6 +84,10 @@ Let's connect and dive deep into all things tech! 💻💬
   <img loading="lazy" src="./images/elasticsearch_logo.png" height="40">
   <img loading="lazy" src="./images/debian_logo.png" height="40">
   <img loading="lazy" src="./images/ios_logo.jpg" height="40">
+  <img loading="lazy" src="./images/postgresql_logo.png" height="40">
+  <img loading="lazy" src="./images/oracle_database_logo.jpg" height="40">
+  <img loading="lazy" src="./images/apache_maven_logo.png" height="40">
+  <img loading="lazy" src="./images/apache_structs_logo.webp" height="40">
 </p>
 
 ## 💳 Github Profile Summary Card

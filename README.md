@@ -119,6 +119,16 @@ Let's connect and dive deep into all things tech! 💻💬
 	
 ## 👨‍💻 Some Personal Projects 
 
+### 🔒 VaultKeeper: Elevating Your Digital Security for Passwords and Banking Cards 💳
+
+VaultKeeper: Securely manage your passwords and banking cards 🔐💳 in an encrypted vault using the latest Android technologies like Jetpack Compose 🚀. Elevate your digital security with robust encryption and modern design practices 🛡️📱.
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/vault_keeper_android">clicking here</a>
+
+<img width=190 align="left" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_2.png" />
+<img width=190 align="left" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_10.png" />
+<img width=190 src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_19.png" />
+
 ### RealInsight 🌟: Where Authentic Connections Happen 🌐
 
 RealInsight is an **iOS application** built using **SwiftUI** that aims to provide similar functionality to BeReal. It offers a platform for users to connect and share insights, thoughts, and experiences in a supportive community environment. 📱💬🌟

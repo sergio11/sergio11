@@ -126,7 +126,8 @@ FitFlexTV is a home workout app 🏋️‍♀️ offering personalized plans and
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/fitflextv_android">clicking here</a>
 
-<img width=570 loading="lazy" src="https://github.com/sergio11/fitflextv_android/blob/master/doc/picture_1.png" />
+<img width=370 align="left" loading="lazy" src="https://github.com/sergio11/fitflextv_android/blob/master/doc/picture_1.png" />
+<img width=370 loading="lazy" src="https://github.com/sergio11/fitflextv_android/raw/master/doc/picture_51.png" />
 
 ### 🔒 VaultKeeper: Elevating Your Digital Security for Passwords and Banking Cards 💳
 

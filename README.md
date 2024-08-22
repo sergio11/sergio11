@@ -117,8 +117,16 @@ Let's connect and dive deep into all things tech! 💻💬
 ## ⏱ Streak Stats
 	
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio11" />
-	
+
 ## 👨‍💻 Some Personal Projects 
+
+### FitFlexTV: Your Ultimate Fitness Journey Begins Here! 🏡💪
+
+FitFlexTV is a home workout app 🏋️‍♀️ offering personalized plans and progress tracking. It uses Firebase 🔥 for real-time data and secure authentication, with Clean Architecture and MVI pattern 🏛️, and Jetpack Compose for TV 📺 for a reusable UI.
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/fitflextv_android">clicking here</a>
+
+<img width=570 loading="lazy" src="https://github.com/sergio11/fitflextv_android/blob/master/doc/picture_1.png" />
 
 ### 🔒 VaultKeeper: Elevating Your Digital Security for Passwords and Banking Cards 💳
 

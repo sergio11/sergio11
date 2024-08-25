@@ -157,7 +157,7 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 
 **Consuming TvNexa Architecture Services:** TvNexa leverages the services provided by TvNexa Architecture, which offers a robust backend infrastructure for handling diverse television content. For detailed information about the backend architecture and services, please refer to [TvNexa Architecture](https://github.com/sergio11/tvnexa_architecture).
 
-<img width=370 align="left" loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/tv_nexa_picture_10.png" />
+<img width=370 align="left" loading="lazy" src="https://github.com/sergio11/tvnexa_androidtv/blob/master/doc%2Fpicture_10.png" />
 
 <img width=370 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/tv_nexa_picture_1.png" />
 

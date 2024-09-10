@@ -126,9 +126,9 @@ Let's connect and dive deep into all things tech! 💻💬
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/inquize_android">clicking here</a>
 
-<img width=190 align="left" src="https://github.com/sergio11/inquize_android/raw/main/doc/screenshots/picture_3.png" />
-<img width=190 align="left" src="https://github.com/sergio11/inquize_android/raw/main/doc/screenshots/picture_19.png" />
-<img width=190 src="https://github.com/sergio11/inquize_android/raw/main/doc/screenshots/picture_10.png" />
+<img width=190 align="left" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_3.png" />
+<img width=190 align="left" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_19.png" />
+<img width=190 src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_10.png" />
 
 ### FitFlexTV: Your Ultimate Fitness Journey Begins Here! 🏡💪
 

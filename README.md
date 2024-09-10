@@ -120,6 +120,16 @@ Let's connect and dive deep into all things tech! 💻💬
 
 ## 👨‍💻 Some Personal Projects 
 
+### Inquize - Capture Curiosity. Unlock Knowledge. 🔍📚💡
+
+**Inquize** is a groundbreaking mobile application that redefines how you engage with your surroundings. With the power of the **Gemini SDK**'s advanced AI, Inquize transforms your device into a gateway to knowledge, allowing you to ask questions about any object, place, or concept captured by your camera. Receive precise, real-time answers, turning every moment of curiosity into a learning experience.
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/inquize_android">clicking here</a>
+
+<img width=190 align="left" src="https://github.com/sergio11/inquize_android/raw/main/doc/screenshots/picture_3.png" />
+<img width=190 align="left" src="https://github.com/sergio11/inquize_android/raw/main/doc/screenshots/picture_19.png" />
+<img width=190 src="https://github.com/sergio11/inquize_android/raw/main/doc/screenshots/picture_10.png" />
+
 ### FitFlexTV: Your Ultimate Fitness Journey Begins Here! 🏡💪
 
 FitFlexTV is a home workout app 🏋️‍♀️ offering personalized plans and progress tracking. It uses Firebase 🔥 for real-time data and secure authentication, with Clean Architecture and MVI pattern 🏛️, and Jetpack Compose for TV 📺 for a reusable UI.

@@ -94,12 +94,13 @@ Let's connect and dive deep into all things tech! 💻💬
 ## 💳 Github Profile Summary Card
 	
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergio11&theme=vue" />
+
+<p>
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true&show=reviews&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio11&layout=compact&hide=Roff&langs_count=10&theme=dark" />
+</p>
 	
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true&show=reviews&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio11&layout=compact&hide=Roff&langs_count=10&theme=dark" />
-
-<img width="60%" src="https://myreadme.vercel.app/api/embed/sergio11?panels=userstatistics,toprepositories" />
 
 ## 🏆 Trophy Stats
 	

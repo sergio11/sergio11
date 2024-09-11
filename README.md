@@ -126,9 +126,13 @@ Let's connect and dive deep into all things tech! 💻💬
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/inquize_android">clicking here</a>
 
-<img width=190 align="left" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_3.png" />
-<img width=190 align="left" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_19.png" />
-<img width=190 src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_10.png" />
+<p>
+	<img width=190 loading="lazy" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_3.png" />
+	&nbsp;&nbsp;&nbsp;	
+	<img width=190 loading="lazy" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_19.png" />
+	&nbsp;&nbsp;&nbsp;	
+	<img width=190 loading="lazy" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_10.png" />
+</p>
 
 ### FitFlexTV: Your Ultimate Fitness Journey Begins Here! 🏡💪
 
@@ -136,8 +140,12 @@ FitFlexTV is a home workout app 🏋️‍♀️ offering personalized plans and
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/fitflextv_android">clicking here</a>
 
-<img width=370 align="left" loading="lazy" src="https://github.com/sergio11/fitflextv_android/blob/master/doc/picture_1.png" />
-<img width=370 loading="lazy" src="https://github.com/sergio11/fitflextv_android/raw/master/doc/picture_51.png" />
+<p>
+	<img width=370 loading="lazy" src="https://github.com/sergio11/fitflextv_android/blob/master/doc/picture_1.png" />
+   	&nbsp;&nbsp;&nbsp;
+   	<img width=370 loading="lazy" src="https://github.com/sergio11/fitflextv_android/raw/master/doc/picture_51.png" />
+   	&nbsp;&nbsp;&nbsp;	
+</p>
 
 ### 🔒 VaultKeeper: Elevating Your Digital Security for Passwords and Banking Cards 💳
 
@@ -145,9 +153,13 @@ VaultKeeper: Securely manage your passwords and banking cards 🔐💳 in an enc
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/vault_keeper_android">clicking here</a>
 
-<img width=190 align="left" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_2.png" />
-<img width=190 align="left" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_10.png" />
-<img width=190 src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_19.png" />
+<p>
+	<img width=190 loading="lazy" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_2.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_10.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_19.png" />
+</p>
 
 ### RealInsight 🌟: Where Authentic Connections Happen 🌐
 
@@ -155,9 +167,13 @@ RealInsight is an **iOS application** built using **SwiftUI** that aims to provi
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/real_insight_swiftui">clicking here</a>
 
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_1.png" />
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_2.png" />
-<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_3.png" />
+<p>
+	<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_1.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_2.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_3.png" />
+</p>
 
 ### TVNexa: 🌐 Bringing the World to Your Screen! 📺, using Clean Architecture and MVI UI patterns along with Jetpack Compose and Material Design
 
@@ -167,9 +183,12 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 
 **Consuming TvNexa Architecture Services:** TvNexa leverages the services provided by TvNexa Architecture, which offers a robust backend infrastructure for handling diverse television content. For detailed information about the backend architecture and services, please refer to [TvNexa Architecture](https://github.com/sergio11/tvnexa_architecture).
 
-<img width=370 align="left" loading="lazy" src="https://github.com/sergio11/tvnexa_androidtv/blob/master/doc%2Fpicture_10.png" />
-
-<img width=370 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/tv_nexa_picture_1.png" />
+<p>
+	<img width=370 loading="lazy" src="https://github.com/sergio11/tvnexa_androidtv/blob/master/doc%2Fpicture_10.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=370 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/tv_nexa_picture_1.png" />
+	&nbsp;&nbsp;&nbsp;
+</p>
 
 ### 🚀 QuickReels: A Fast-paced Multimedia Experience.
 
@@ -183,11 +202,13 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 
 ✨ QuickReels delivers an intuitive interface to explore multimedia content, ensuring a dynamic and enriching user experience.
 
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_1.png" />
-
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_2.png" />
-
-<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_3.png" />
+<p>
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_1.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_2.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_3.png" />
+</p>
 
 
 ### 📸 PicConnect - Explore and Connect Through Photography 🌟.
@@ -201,11 +222,13 @@ Share your photos and videos, sprinkle creativity with tags and location data, a
 * **🌟 More Than Socializing 🌟**: PicConnect is where moments become memories, and connections transcend screens. Whether it's a breathtaking sunset or an adrenaline-pumping adventure, your world awakens on PicConnect. 🌆🚀
 * **📋 Discover More in Our README 📋**: Explore the comprehensive overview of PicConnect, including its features and the technology stack choices, in our README. 📄🔍
 
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_one.png" />
-
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_two.png" />
-
-<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_three.png" />
+<p>
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_one.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_two.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_three.png" />
+</p>
 
 ### 🎨 ArtNiche - Where Digital Art Meets NFT Collectibles
 
@@ -215,11 +238,13 @@ Discover the extraordinary within the realm of digital art—exclusive creations
 
 ArtNiche is on a mission to break down barriers faced by content creators seeking to share their art directly with the public. 🌟 In today's digital landscape, owning an NFT is not just a trend; it's a status symbol and a genuine investment. 💰 Both collectors and buyers have found profitability in this ever-evolving space, making it an exciting venture for all. 🌐
 
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_1.png" />
-
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_2.png" />
-
-<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_3.png" />
+<p>
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_1.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_2.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_3.png" />
+</p>
 
 ### 🧒📱 Bullkeeper: Digital Parenting Reinvented 🚀
 
@@ -239,11 +264,13 @@ Are you a concerned parent looking to safeguard your children's digital experien
    
 Join us in the journey to ensure a safe, balanced, and responsible digital lifestyle for your loved ones with Bullkeeper. 🌟
 
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_one.png" />
-
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_two.png" />
-
-<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_tree.png" />
+<p>
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_one.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_two.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_tree.png" />
+</p>
 
 ### 📱 BullKeeper Kids Android App: A tool for children and adolescents to manage their digital time responsibly.
 
@@ -259,21 +286,25 @@ Empowering young digital explorers to balance fun and responsibility while adher
 
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/bullkeeper_kids_app">clicking here</a>
 
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_one.png" />
-
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_two.png" />
-
-<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_tree.png" />
+<p>
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_one.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_two.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_tree.png" />
+</p>
 
 ### A Spotify clone for Android
 	
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/spotify-android">clicking here</a>
 
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/spotify_android_image_1.png" />
-
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/spotify_android_image_2.png" />
-
-<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/spotify_android_image_3.png" />
+<p>
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/spotify_android_image_1.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/spotify_android_image_2.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/spotify_android_image_3.png" />
+</p>
 
 ### Movie Addicts App (MVI + Clean architecture and modularization based on features and layers)
 
@@ -281,11 +312,13 @@ A simple project to demonstrate an approach based on MVI + Clean architecture an
 	
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/MovieAddicts">clicking here</a>
 
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/movie_addicts_1.png" />
-
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/movie_addicts_2.png" />
-
-<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/movie_addicts_3.png" />
+<p>
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/movie_addicts_1.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/movie_addicts_2.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/movie_addicts_3.png" />
+</p>
 
 ### Rick And Morty Kotlin Multiplatform Mobile App
 
@@ -293,9 +326,13 @@ An App architecture example based on Kotlin Multiplatform Mobile.
 	
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/RickAndMortyKMP">clicking here</a>
 
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_1.png" />
-<img width=190 align="left" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_3.png" />
-<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_2.png" />
+<p>
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_1.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_3.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_2.png" />
+</p>
 
 ### 🌐📡 Unlocking IoT Potential with Apache Kafka and MQTT 🚀
 

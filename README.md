@@ -128,9 +128,9 @@ Let's connect and dive deep into all things tech! 💻💬
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/saborytv_android">clicking here</a>
 
 <p>
-	<img width=370 loading="lazy" src="https://github.com/sergio11/saborytv_android/blob/master/doc/screenshots/picture_52.png" />
+	<img width=370 loading="lazy" src="https://github.com/sergio11/saborytv_android/raw/main/doc/screenshots/picture_52.png" />
    	&nbsp;&nbsp;&nbsp;
-   	<img width=370 loading="lazy" src="https://github.com/sergio11/saborytv_android/raw/master/doc/screenshots/picture_27.png" />
+   	<img width=370 loading="lazy" src="https://github.com/sergio11/saborytv_android/raw/main/doc/screenshots/picture_27.png" />
    	&nbsp;&nbsp;&nbsp;	
 </p>
 

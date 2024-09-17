@@ -121,6 +121,19 @@ Let's connect and dive deep into all things tech! 💻💬
 
 ## 👨‍💻 Some Personal Projects 
 
+### SaboryTV 🍳📺: Your Personal Chef, Right on Your TV
+
+**SaboryTV** 🍲📺 is your ultimate cooking and recipe streaming app for Android TV. Powered by Firebase 🔥 for real-time updates and secure authentication, it’s built with Clean Architecture and MVI 🏛️. Experience a sleek, modern interface designed with Jetpack Compose for TV 📺, making your cooking adventures easy and enjoyable.
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/saborytv_android">clicking here</a>
+
+<p>
+	<img width=370 loading="lazy" src="https://github.com/sergio11/saborytv_android/blob/master/doc/screenshots/picture_52.png" />
+   	&nbsp;&nbsp;&nbsp;
+   	<img width=370 loading="lazy" src="https://github.com/sergio11/saborytv_android/raw/master/doc/screenshots/picture_27.png" />
+   	&nbsp;&nbsp;&nbsp;	
+</p>
+
 ### Inquize - Capture Curiosity. Unlock Knowledge. 🔍📚💡
 
 **Inquize** is a groundbreaking mobile application that redefines how you engage with your surroundings. With the power of the **Gemini SDK**'s advanced AI, Inquize transforms your device into a gateway to knowledge, allowing you to ask questions about any object, place, or concept captured by your camera. Receive precise, real-time answers, turning every moment of curiosity into a learning experience.

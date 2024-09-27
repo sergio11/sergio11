@@ -121,6 +121,19 @@ Let's connect and dive deep into all things tech! 💻💬
 
 ## 👨‍💻 Some Personal Projects 
 
+### MelodiqTV 🎶✨: Unleash the Power of Music on Your TV
+
+**MelodiqTV** 🎶📺 is a music and video streaming app for Android TV. Powered by Firebase 🔥 for real-time data and secure authentication, it uses Clean Architecture and MVI 🏛️. The UI is built with Jetpack Compose for TV 📺 for a smooth, modern experience optimized for large screens.
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/melodiqtv_android">clicking here</a>
+
+<p>
+	<img width=370 loading="lazy" src="https://github.com/sergio11/melodiqtv_android/raw/master/doc/screenshots/picture_46.png" />
+   	&nbsp;&nbsp;&nbsp;
+   	<img width=370 loading="lazy" src="https://github.com/sergio11/melodiqtv_android/raw/master/doc/screenshots/picture_21.png" />
+   	&nbsp;&nbsp;&nbsp;	
+</p>
+
 ### SaboryTV 🍳📺: Your Personal Chef, Right on Your TV
 
 **SaboryTV** 🍲📺 is your ultimate cooking and recipe streaming app for Android TV. Powered by Firebase 🔥 for real-time updates and secure authentication, it’s built with Clean Architecture and MVI 🏛️. Experience a sleek, modern interface designed with Jetpack Compose for TV 📺, making your cooking adventures easy and enjoyable.

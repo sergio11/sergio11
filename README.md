@@ -117,7 +117,7 @@ Let's connect and dive deep into all things tech! 💻💬
 
 ## ⏱ Streak Stats
 	
-<img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=sergio11" />
+[![Sergio11 Streak](https://streak-stats.demolab.com/?user=sergio11&theme=dark)](https://git.io/streak-stats)
 
 ## 👨‍💻 Some Personal Projects 
 

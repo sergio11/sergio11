@@ -121,6 +121,19 @@ Let's connect and dive deep into all things tech! 💻💬
 
 ## 👨‍💻 Some Personal Projects 
 
+### NimbusTV 🌐📺: Your Gateway to Effortless M3U Streaming on Android TV
+
+**NimbusTV** is your ultimate M3U streaming solution for Android TV 📺✨, offering seamless management of multiple playlists 🎶 and access to diverse channels, including live events and radio 📻. With integrated EPG support 📅 and customizable reminders ⏰, it ensures you never miss your favorite shows!
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/nimbustv_android">clicking here</a>
+
+<p>
+	<img width=370 loading="lazy" src="https://github.com/sergio11/nimbustv_android/raw/master/doc/screenshots/picture_9.png" />
+   	&nbsp;&nbsp;&nbsp;
+   	<img width=370 loading="lazy" src="https://github.com/sergio11/nimbustv_android/raw/master/doc/screenshots/picture_52.png" />
+   	&nbsp;&nbsp;&nbsp;	
+</p>
+
 ### MelodiqTV 🎶✨: Unleash the Power of Music on Your TV
 
 **MelodiqTV** 🎶📺 is a music and video streaming app for Android TV. Powered by Firebase 🔥 for real-time data and secure authentication, it uses Clean Architecture and MVI 🏛️. The UI is built with Jetpack Compose for TV 📺 for a smooth, modern experience optimized for large screens.

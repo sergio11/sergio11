@@ -104,7 +104,7 @@ Let's connect and dive deep into all things tech! 💻💬
 
 ## 🏆 Trophy Stats
 	
-<img  src="https://github-profile-trophy.vercel.app/?username=sergio11&column=8&theme=onedark" />
+<img  src="https://github-profile-trophy.vercel.app/?username=sergio11&column=8&theme=highcontrast" />
 
 
 ## :star2: StarDev, Stackoverflow and Medium profiles

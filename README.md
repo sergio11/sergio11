@@ -121,6 +121,20 @@ Let's connect and dive deep into all things tech! 💻💬
 
 ## 👨‍💻 Some Personal Projects 
 
+### 🧵 Threads SwiftUI - Where Ideas Connect
+
+Threads SwiftUI is an iOS 17 app for sharing thoughts and discussing trending topics. Built with SwiftUI and Clean Code architecture, it lets users create threads, follow others, and like posts. Utilizing Firebase for authentication, storage, and real-time updates, it offers a seamless and secure experience. 🧵📱🔥
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/threads_swiftui">clicking here</a>
+
+<p>
+	<img width=190 src="https://github.com/sergio11/threads_swiftui/raw/main/doc/screenshots/picture_1.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 src="https://github.com/sergio11/threads_swiftui/raw/main/doc/screenshots/picture_12.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 src="https://github.com/sergio11/threads_swiftui/raw/main/doc/screenshots/picture_17.png" />
+</p>
+
 ### NimbusTV 🌐📺: Your Gateway to Effortless M3U Streaming on Android TV
 
 **NimbusTV** is your ultimate M3U streaming solution for Android TV 📺✨, offering seamless management of multiple playlists 🎶 and access to diverse channels, including live events and radio 📻. With integrated EPG support 📅 and customizable reminders ⏰, it ensures you never miss your favorite shows!

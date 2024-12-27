@@ -121,6 +121,20 @@ Let's connect and dive deep into all things tech! 💻💬
 
 ## 👨‍💻 Some Personal Projects 
 
+### Passionfy 💕✨ - Where Love Begins 🌟❤️
+
+Welcome to **Passionfy** — a vibrant and innovative app crafted to help you forge connections, uncover shared passions, and ignite meaningful relationships! 🌟 Designed exclusively for **iOS** with the cutting-edge **SwiftUI**, Passionfy combines elegance, functionality, and seamless animations to deliver a truly engaging experience. 🎉
+
+Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/passionfy">clicking here</a>
+
+<p>
+	<img width=190 src="https://github.com/sergio11/passionfy/raw/main/doc/screenshots/picture_3.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 src="https://github.com/sergio11/passionfy/raw/main/doc/screenshots/picture_56.png" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 src="https://github.com/sergio11/passionfy/raw/main/doc/screenshots/picture_66.png" />
+</p>
+
 ### 🧵 Threads SwiftUI - Where Ideas Connect
 
 Threads SwiftUI is an iOS 17 app for sharing thoughts and discussing trending topics. Built with SwiftUI and Clean Code architecture, it lets users create threads, follow others, and like posts. Utilizing Firebase for authentication, storage, and real-time updates, it offers a seamless and secure experience. 🧵📱🔥

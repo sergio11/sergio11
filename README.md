@@ -117,7 +117,7 @@ Let's connect and dive deep into all things tech! 💻💬
 
 ## ⏱ Streak Stats
 	
-[![Sergio11 Streak](https://streak-stats.demolab.com/?user=sergio11&theme=dark)](https://git.io/streak-stats)
+[![Sergio11 Github Streak](https://streak-stats.demolab.com?user=sergio11&theme=neon)](https://git.io/streak-stats)
 
 ## 👨‍💻 Some Personal Projects 
 

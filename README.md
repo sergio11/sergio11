@@ -118,7 +118,7 @@ Let's connect and dive deep into all things tech! 💻💬
 ## ⏱ Streak Stats
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sergio11&theme=sunset-gradient&hide_border=false" alt="Sergio11 Github Streak" />
+  <img height=260 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sergio11&theme=sunset-gradient&hide_border=false" alt="Sergio11 Github Streak" />
 </a>
 
 ## 👨‍💻 Some Personal Projects 

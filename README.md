@@ -1,6 +1,6 @@
 # Hi, I'm Sergio Sánchez Sánchez 👋🏽
 
-<img src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/profile_header.png" style="max-width: 100%;" />
+<img src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/profile_header.jpg" style="max-width: 100%;" />
 
 <a target="_blank" href="https://www.instagram.com/dreamsoftware11/"><img src="https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sergiosanchezsanchez11/" alt="Instagram"></a>
 <a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/-Medium-050a30?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sanchezsanchezsergio418" alt="Medium"></a>

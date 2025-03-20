@@ -315,47 +315,6 @@ ArtNiche is on a mission to break down barriers faced by content creators seekin
 	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_3.png" />
 </p>
 
-### 🧒📱 Bullkeeper: Designing Healthy Digital Habits  
-
-Bullkeeper is a personal project aimed at helping parents guide their children's digital habits. It’s not just about restricting apps or screen time but about fostering a balanced and safe relationship with technology.  
-
-🔹 **Screen time management** – Set healthy limits.  
-🔹 **Usage insights** – Understand digital habits.  
-🔹 **App & content control** – Filter what matters.  
-🔹 **Real-time alerts** – Detect potential risks.  
-
-This project focuses on prevention and digital well-being, creating a healthier tech environment for kids.
-
-<p>
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_one.png" />
-	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_two.png" />
-	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_tree.png" />
-</p>
-
-### 📱 BullKeeper Kids Android App: A tool for children and adolescents to manage their digital time responsibly.
-
-Empowering young digital explorers to balance fun and responsibility while adhering to parental controls. Enjoy a user-friendly setup, synchronized device resources, safety alerts, integrated messaging, and device usage control. 🎮👦👧💬🔒
-
-* **🌟 Fun Time Management:** Encourages a balance between fun and responsibility in a safe and enjoyable digital adventure.
-* **🔧 User-Friendly Assistant:** Easy setup with no technical expertise required.
-* **👪 Child/Teen Account Integration:** Creates a secure and personalized digital environment.
-* **🔄 Synchronized Device Resources:** Keeps you updated with notifications of any device changes.
-* **🆘 Emergency Alerts and Safety:** Provides access to help and "pick me up" alerts directly from the app.
-* **💬 Integrated Messaging System:** Fosters easy communication between children/adolescents and supervisors.
-* **⏰🔒 Device Usage Control:** Monitors screen time and enforces parental control rules.
-
-Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/bullkeeper_kids_app">clicking here</a>
-
-<p>
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_one.png" />
-	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_two.png" />
-	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_kids_tree.png" />
-</p>
-
 ### A Spotify clone for Android
 	
 Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/spotify-android">clicking here</a>

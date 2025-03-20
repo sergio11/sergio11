@@ -315,20 +315,16 @@ ArtNiche is on a mission to break down barriers faced by content creators seekin
 	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_3.png" />
 </p>
 
-### 🧒📱 Bullkeeper: Digital Parenting Reinvented 🚀
+### 🧒📱 Bullkeeper: Designing Healthy Digital Habits  
 
-Are you a concerned parent looking to safeguard your children's digital experiences? Enter Bullkeeper, your ultimate Android app companion designed with your kids' digital well-being in mind. 🛡️
+Bullkeeper is a personal project aimed at helping parents guide their children's digital habits. It’s not just about restricting apps or screen time but about fostering a balanced and safe relationship with technology.  
 
-👁️‍🗨️ The Mission: Bullkeeper is on a mission to create a safer digital ecosystem for children and adolescents. I am dedicated to identifying potentially harmful situations and fostering early detection of tech-related disorders that can result from inadequate or unreliable technology use. 🚫🌪️
+🔹 **Screen time management** – Set healthy limits.  
+🔹 **Usage insights** – Understand digital habits.  
+🔹 **App & content control** – Filter what matters.  
+🔹 **Real-time alerts** – Detect potential risks.  
 
-🔒 Key Features:
-
-* **🚨 Alert System:** Receive real-time alerts about potentially harmful content or interactions.
-* **📊 Usage Insights:** Gain valuable insights into your child's digital habits.
-* **🚷 Content Filters:** Set up filters to block inappropriate content and websites.
-* **👥 Digital Wellness:** Promote healthy screen time management.
-   
-Join us in the journey to ensure a safe, balanced, and responsible digital lifestyle for your loved ones with Bullkeeper. 🌟
+This project focuses on prevention and digital well-being, creating a healthier tech environment for kids.
 
 <p>
 	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/bullkeeper_image_one.png" />

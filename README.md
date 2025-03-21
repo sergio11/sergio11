@@ -110,8 +110,6 @@ Let's connect and dive deep into all things tech! 💻💬
 
 <a href="https://stardev.io/developers/sergio11"><img alt="Check out sergio11's profile on stardev.io" src="https://stardev.io/developers/sergio11/badge/languages/global.svg" /></a>
 
-<a  href="https://stackoverflow.com/users/5701248/sergio-sánchez-sánchez"><img alt="Check out sergio11's profile on stackoverflow" src="https://github-readme-stackoverflow.vercel.app/?userID=5701248" /></a>
-
 <a  href="https://sanchezsanchezsergio418.medium.com/"><img alt="Check out sergio11's profile on medium" src="https://github-readme-medium.vercel.app/?username=sanchezsanchezsergio418" /></a>
 
 ## ⏱ Streak Stats

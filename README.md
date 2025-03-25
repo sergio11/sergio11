@@ -127,11 +127,11 @@ Let's connect and dive deep into all things tech! 💻💬
 This project was a great way to dive into **modern UI design**, **interactive gestures**, and **real-time interactions**, all while creating something fun and meaningful! ❤️🌟  
 
 <p>
-	<img width=190 src="https://github.com/sergio11/passionfy/raw/main/doc/screenshots/picture_3.png" />
+	<img width=190 src="https://drive.google.com/uc?export=view&id=1lHs5rdwBA1uGMAAHa9uOpty8c1EZ_zxp" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 src="https://github.com/sergio11/passionfy/raw/main/doc/screenshots/picture_56.png" />
+	<img width=190 src="https://drive.google.com/uc?export=view&id=1RlxZv-UBuYFKXvvfAAnBMfKWanJvqgsr" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 src="https://github.com/sergio11/passionfy/raw/main/doc/screenshots/picture_66.png" />
+	<img width=190 src="https://drive.google.com/uc?export=view&id=1CCRAT28PC8fDK8NUnbrH7WR83sT3ja4d" />
 </p>
 
 ### 🧵 Threads SwiftUI - Where Ideas Connect

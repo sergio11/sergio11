@@ -202,8 +202,6 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 
 This project was a great opportunity to experiment with **AI integration**, **real-time data processing**, and **interactive mobile experiences**.  
 
-Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/inquize_android">clicking here</a>
-
 <p>
 	<img width=190 loading="lazy" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_3.png" />
 	&nbsp;&nbsp;&nbsp;	
@@ -232,8 +230,6 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 ### 🔒 VaultKeeper: Elevating Your Digital Security for Passwords and Banking Cards 💳
 
 VaultKeeper: Securely manage your passwords and banking cards 🔐💳 in an encrypted vault using the latest Android technologies like Jetpack Compose 🚀. Elevate your digital security with robust encryption and modern design practices 🛡️📱.
-
-Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/vault_keeper_android">clicking here</a>
 
 <p>
 	<img width=190 loading="lazy" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_2.png" />

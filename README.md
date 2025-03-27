@@ -203,11 +203,11 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 This project was a great opportunity to experiment with **AI integration**, **real-time data processing**, and **interactive mobile experiences**.  
 
 <p>
-	<img width=190 loading="lazy" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_3.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1TJH4TRYI5qvhs1NVWftZEES-Q5f2Fm-o" />
 	&nbsp;&nbsp;&nbsp;	
-	<img width=190 loading="lazy" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_19.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1zVHei53uB9nGVxTWbSkg5E8ckTYdk2dR" />
 	&nbsp;&nbsp;&nbsp;	
-	<img width=190 loading="lazy" src="https://github.com/sergio11/inquize_android/raw/master/doc/screenshots/picture_10.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1jwLc-doEvELu2LdD09wRMm9spdmcmLOf" />
 </p>
 
 ### FitFlexTV: Your Ultimate Fitness Journey Begins Here! 🏡💪
@@ -232,11 +232,11 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 VaultKeeper: Securely manage your passwords and banking cards 🔐💳 in an encrypted vault using the latest Android technologies like Jetpack Compose 🚀. Elevate your digital security with robust encryption and modern design practices 🛡️📱.
 
 <p>
-	<img width=190 loading="lazy" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_2.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1phr0vG7Er94lNvBUsAUgPq_z_yBRJTQF" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_10.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1UeVfAcIlMJ2P4w2P9XcsaGbrRtZuDUm2" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://github.com/sergio11/vault_keeper_android/raw/main/doc/screenshots/picture_19.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1vk5_7U8SoQmK6LGXUCSBWDGWuGPBoM-H" />
 </p>
 
 ### 🌟 RealInsight – Where Authentic Connections Happen 🌐

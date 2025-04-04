@@ -153,11 +153,18 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 
 ### NimbusTV 🌐📺: Effortless M3U Streaming for Android TV 🎥🎶  
 
-**NimbusTV** is a personal project I developed to explore **M3U playlist streaming** 🎶 and **EPG integration** 📅 on **Android TV** 📺. It allows seamless management of multiple playlists, giving access to diverse channels, including **live events** 🎬 and **radio stations** 📻.  
+**NimbusTV** is a personal project built to explore **M3U playlist streaming** 🎶 and **EPG integration** 📅 on **Android TV** 📺.
 
-With **customizable reminders** ⏰ and an intuitive interface, **NimbusTV** makes sure you never miss your favorite shows! This project was a great opportunity to experiment with **Jetpack Compose for TV** 🎨 and optimize the user experience for large screens. 🚀  
+It leverages **open playlists from the [iptv-org/iptv](https://github.com/iptv-org/iptv)** project, which provides thousands of free and publicly available **TV channels**, **radio stations** 📻, and **program guides**.
 
-Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/nimbustv_android">clicking here</a>
+🎯 Key learning goals:  
+- Parsing and managing **M3U formats** dynamically  
+- Integrating live **EPG data**  
+- Optimizing UI/UX for big screens using **Jetpack Compose for TV** 🎨  
+
+With customizable reminders ⏰ and an intuitive interface, **NimbusTV** helps you enjoy your favorite content effortlessly.
+
+🔗 [View the GitHub Repository](https://github.com/sergio11/nimbustv_android)
 
 <p>
 	<img width=370 loading="lazy" src="https://github.com/sergio11/nimbustv_android/raw/master/doc/screenshots/picture_9.png" />

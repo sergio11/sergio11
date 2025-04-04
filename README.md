@@ -164,8 +164,6 @@ It leverages **open playlists from the [iptv-org/iptv](https://github.com/iptv-o
 
 With customizable reminders ⏰ and an intuitive interface, **NimbusTV** helps you enjoy your favorite content effortlessly.
 
-🔗 [View the GitHub Repository](https://github.com/sergio11/nimbustv_android)
-
 <p>
 	<img width=370 loading="lazy" src="https://github.com/sergio11/nimbustv_android/raw/master/doc/screenshots/picture_9.png" />
    	&nbsp;&nbsp;&nbsp;
@@ -260,12 +258,17 @@ This project allowed me to dive deeper into **iOS development**, focusing on cre
 	<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_3.png" />
 </p>
 
-### TVNexa: 🌐 Bringing the World to Your Screen! 📺, using Clean Architecture and MVI UI patterns along with Jetpack Compose and Material Design
+### TVNexa 🌐📺: Bringing the World to Your Screen — with Clean Architecture & MVI  
 
-Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/tvnexa_androidtv">clicking here</a>
+**TVNexa** is a personal project built to strengthen my skills in **Android TV development** 📺 using **Clean Architecture** 🏛️, **MVI pattern** 🔄, **Jetpack Compose** 🖥️, and **Material Design** 🎨.
 
-**TVNexa** is a personal project I developed to apply and enhance my skills in **Android TV development** 📺, using **Clean Architecture** 🏛️, **MVI** 🔄, **Jetpack Compose** 🖥️, and **Material Design** 🎨.  
-The goal of **TVNexa** is to provide a simple and well-structured way to access TV channels from around the world 🌍, while exploring best practices in development and UI design for Android TV 📺.
+It offers a simple, well-structured way to stream **international TV channels**, powered by the open-source playlists from **[iptv-org/iptv](https://github.com/iptv-org/iptv)** — a rich, community-curated source of free and public IPTV streams from around the world 🌍.
+
+🎯 Key learning goals:  
+- Applying **Clean Architecture** principles for modular, testable code  
+- Implementing **MVI** for robust state management  
+- Creating responsive, modern UIs with **Jetpack Compose for TV**  
+- Working with **M3U playlists** and live streaming content  
 
 <p>
 	<img width=370 loading="lazy" src="https://github.com/sergio11/tvnexa_androidtv/blob/master/doc%2Fpicture_10.png" />

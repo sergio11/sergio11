@@ -167,7 +167,7 @@ With customizable reminders ⏰ and an intuitive interface, **NimbusTV** helps y
 <p>
 	<img width=370 loading="lazy" src="https://github.com/sergio11/nimbustv_android/raw/master/doc/screenshots/picture_9.png" />
    	&nbsp;&nbsp;&nbsp;
-   	<img width=370 loading="lazy" src="https://github.com/sergio11/nimbustv_android/raw/master/doc/screenshots/picture_52.png" />
+   	<img width=370 loading="lazy" src="https://github.com/sergio11/nimbustv_android/raw/master/doc/screenshots/picture_49.png" />
    	&nbsp;&nbsp;&nbsp;	
 </p>
 

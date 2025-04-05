@@ -151,15 +151,15 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 	<img width=190 src="https://github.com/sergio11/threads_swiftui/raw/main/doc/screenshots/picture_17.png" />
 </p>
 
-### NimbusTV 🌐📺: Effortless M3U Streaming for Android TV 🎥🎶  
+### NimbusTV 🌐📺: Stream Smarter on Android TV
 
-**NimbusTV** is a personal project built to explore **M3U playlist streaming** 🎶 and **EPG integration** 📅 on **Android TV** 📺.
+**NimbusTV** is a personal project built to explore **streaming** 🎶 and **EPG integration** 📅 on **Android TV** 📺.
 
 It leverages **open playlists from the [iptv-org/iptv](https://github.com/iptv-org/iptv)** project, which provides thousands of free and publicly available **TV channels**, **radio stations** 📻, and **program guides**.
 
 🎯 Key learning goals:  
-- Parsing and managing **M3U formats** dynamically  
-- Integrating live **EPG data**  
+- Parsing and managing **streams**
+- Integrating  **EPG data**  
 - Optimizing UI/UX for big screens using **Jetpack Compose for TV** 🎨  
 
 With customizable reminders ⏰ and an intuitive interface, **NimbusTV** helps you enjoy your favorite content effortlessly.
@@ -251,24 +251,23 @@ VaultKeeper: Securely manage your passwords and banking cards 🔐💳 in an enc
 This project allowed me to dive deeper into **iOS development**, focusing on creating an **authentic user experience** and exploring **SwiftUI** for dynamic interfaces. It’s a reflection of my commitment to building **real connections** through **technology**! 🚀
 
 <p>
-	<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_1.png" />
+	<img width=190 src="https://drive.google.com/uc?export=view&id=18UVNGWu997HMAjXIZE_EHi9RvReN5Ykf" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_2.png" />
+	<img width=190 src="https://drive.google.com/uc?export=view&id=1YodpzBWbA3t1J2OY46IyQfR4qSe8HxC2" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/real_insight_3.png" />
+	<img width=190 src="https://drive.google.com/uc?export=view&id=1Ez1U7Ij7qB2O_RajgKTtQeC2awwXkAIs" />
 </p>
 
 ### TVNexa 🌐📺: Bringing the World to Your Screen — with Clean Architecture & MVI  
 
 **TVNexa** is a personal project built to strengthen my skills in **Android TV development** 📺 using **Clean Architecture** 🏛️, **MVI pattern** 🔄, **Jetpack Compose** 🖥️, and **Material Design** 🎨.
 
-It offers a simple, well-structured way to stream **international TV channels**, powered by the open-source playlists from **[iptv-org/iptv](https://github.com/iptv-org/iptv)** — a rich, community-curated source of free and public IPTV streams from around the world 🌍.
+It offers a simple, well-structured way to stream **international TV channels**, powered by the open-source playlists from **[iptv-org/iptv](https://github.com/iptv-org/iptv)** — a rich, community-curated source of free and public streams from around the world 🌍.
 
 🎯 Key learning goals:  
 - Applying **Clean Architecture** principles for modular, testable code  
 - Implementing **MVI** for robust state management  
 - Creating responsive, modern UIs with **Jetpack Compose for TV**  
-- Working with **M3U playlists** and live streaming content  
 
 <p>
 	<img width=370 loading="lazy" src="https://github.com/sergio11/tvnexa_androidtv/blob/master/doc%2Fpicture_10.png" />
@@ -314,11 +313,11 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 This project allowed me to experiment with social networking features and integrate a variety of tools to create a seamless, engaging experience for users who love photography and connection.
 
 <p>
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_one.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1k-hw29Gkf7liDK0ha1uhnJO4EugR_G94" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_two.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1SESvDyKUWvPuiIugzzql4uJ-_xmVyopg" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/pic_connect_three.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1vymi0iB6CqKoYUQmeuVaz9nCujJ_7BQG" />
 </p>
 
 ### 🎨 ArtNiche - Where Digital Art Meets NFT Collectibles

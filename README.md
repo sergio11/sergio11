@@ -288,13 +288,12 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 
 ✨ This app was a great opportunity to explore and strengthen my knowledge of **Flutter** and **Firebase**, while crafting a smooth, engaging platform to enjoy multimedia content.
 
-
 <p>
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_1.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/file/d/1R3MqUQyBtvRs__2X9CXQ6OkwQiQi8WNo/view?usp=sharing" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_2.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/file/d/1Td9kinQEDmfexxvH8OEYIoRp6ix1gaDe/view?usp=sharing" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/quick_reels_picture_3.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/file/d/13lfIYg0Vt1E8SNUCk7dJ7Z8LqKdLBuw3/view?usp=sharing" />
 </p>
 
 

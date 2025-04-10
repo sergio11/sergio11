@@ -272,7 +272,7 @@ It offers a simple, well-structured way to stream **international TV channels**,
 <p>
 	<img width=370 loading="lazy" src="https://github.com/sergio11/tvnexa_androidtv/blob/master/doc%2Fpicture_10.png" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=370 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/tv_nexa_picture_1.png" />
+	<img width=370 loading="lazy" src="https://raw.githubusercontent.com/sergio11/tvnexa_androidtv/master/doc/picture_27.png" />
 	&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -328,11 +328,11 @@ Welcome to ArtNiche, your gateway to a world of NFT art collectibles for digital
 This project allowed me to explore the world of NFTs and the integration of blockchain technology within a creative digital art platform.
 
 <p>
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_1.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1BFelWEtUXO5DhncPpM-9J87hSR5xGvye" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_2.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1gDUd8_GjLtxjuvv9FubgEwYvg89wR2Oo" />
 	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/art_niche_3.png" />
+	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1EGMsvBw29JzFUJUZPj1S06eSEF3leIiu" />
 </p>
 
 ### A Spotify clone for Android

@@ -151,7 +151,7 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 	<img width=190 src="https://github.com/sergio11/threads_swiftui/raw/main/doc/screenshots/picture_17.png" />
 </p>
 
-### NimbusTV 🌐📺: Stream Smarter on Android TV
+### NimbusTV 📺🌐 – A Personal Learning Project for Android TV Development
 
 **NimbusTV** is a personal project built to explore **streaming** 🎶 and **EPG integration** 📅 on **Android TV** 📺.
 
@@ -171,7 +171,7 @@ With customizable reminders ⏰ and an intuitive interface, **NimbusTV** helps y
    	&nbsp;&nbsp;&nbsp;	
 </p>
 
-### MelodiqTV 🎶✨: Bringing Music to Your TV 🎵📺  
+### MelodiqTV 🎶✨: Unleash the Power of Music on Your TV 
 
 **MelodiqTV** 🎶 is a personal project I created to explore **Android TV development** 📺, **real-time data with Firebase** 🔥, and **Jetpack Compose for TV** 🎨. It’s a simple yet functional **music and video streaming app**, designed with **Clean Architecture** 🏛️ and the **MVI pattern** 🔄 to provide a smooth, immersive experience on large screens.  
 
@@ -215,7 +215,7 @@ This project was a great opportunity to experiment with **AI integration**, **re
 	<img width=190 loading="lazy" src="https://drive.google.com/uc?export=view&id=1jwLc-doEvELu2LdD09wRMm9spdmcmLOf" />
 </p>
 
-### FitFlexTV: Your Ultimate Fitness Journey Begins Here! 🏡💪
+### FitFlexTV: A Personal Learning Journey in Fitness App Development 🏡💪
 
 **FitFlexTV** is a personal project I developed to enhance my Android development skills, particularly in learning and implementing **Clean Architecture** and **MVI** patterns 🏛️. The app provides personalized home workout plans 🏋️‍♀️ and progress tracking, designed to support users on their fitness journey.
 
@@ -258,7 +258,7 @@ This project allowed me to dive deeper into **iOS development**, focusing on cre
 	<img width=190 src="https://drive.google.com/uc?export=view&id=1Ez1U7Ij7qB2O_RajgKTtQeC2awwXkAIs" />
 </p>
 
-### TVNexa 🌐📺: Bringing the World to Your Screen — with Clean Architecture & MVI  
+### TvNexa - My Personal Streaming Project 🌐📺
 
 **TVNexa** is a personal project built to strengthen my skills in **Android TV development** 📺 using **Clean Architecture** 🏛️, **MVI pattern** 🔄, **Jetpack Compose** 🖥️, and **Material Design** 🎨.
 

@@ -92,19 +92,22 @@ Let's connect and dive deep into all things tech! 💻💬
 
 ## 💳 Github Profile Summary Card
 	
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergio11&theme=vue" />
-
 <p>
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true&show=reviews&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true&show=reviews&theme=radical&count_private=true&hide_border=true&include_all_commits=false" />
   &nbsp;&nbsp;&nbsp;
   <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio11&layout=compact&hide=Roff&langs_count=10&theme=dark" />
 </p>
 	
+## 🧩 Featured Projects
 
-## 🏆 Trophy Stats
-	
-<img  src="https://github-profile-trophy.vercel.app/?username=sergio11&column=8&theme=highcontrast" />
+Take a look at some of the repositories that best represent my work, passion, and expertise across android development, backend systems, and AI innovation:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=vehicle_detection_tracker&theme=radical)](https://github.com/sergio11/vehicle_detection_tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=fitflextv_android&theme=radical)](https://github.com/sergio11/fitflextv_android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=document_search_engine_architecture&theme=radical)](https://github.com/sergio11/document_search_engine_architecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=lyric_wave_architecture&theme=radical)](https://github.com/sergio11/lyric_wave_architecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=eclipserecon&theme=radical)](https://github.com/sergio11/eclipserecon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=traffic_sentinel_architecture&theme=radical)](https://github.com/sergio11/traffic_sentinel_architecture)
 
 ## :star2: StarDev, Stackoverflow and Medium profiles
 
@@ -112,13 +115,13 @@ Let's connect and dive deep into all things tech! 💻💬
 
 <a  href="https://sanchezsanchezsergio418.medium.com/"><img alt="Check out sergio11's profile on medium" src="https://github-readme-medium.vercel.app/?username=sanchezsanchezsergio418" /></a>
 
-## ⏱ Streak Stats
+## 👨‍💻 Projects I Built for Fun (and Learning)
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=260 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sergio11&theme=sunset-gradient&hide_border=false" alt="Sergio11 Github Streak" />
-</a>
+Some of the best things I’ve built started as late-night experiments or weekend curiosities.
 
-## 👨‍💻 Some Personal Projects 
+These personal projects reflect my passion for technology, my love for clean architecture, and my eagerness to explore new tools and paradigms. Whether it's crafting a sleek mobile app, testing out the latest in generative AI, or designing full-stack systems just for the challenge — I use these projects as a playground to grow as a developer.
+
+I believe the best way to learn is by building.
 
 ### Passionfy 💕✨ - Where Love Begins 🌟❤️
 

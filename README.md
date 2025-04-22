@@ -91,7 +91,9 @@ Let's connect and dive deep into all things tech! 💻💬
 </p>
 
 ## 💳 Github Profile Summary Card
-	
+
+<a href="https://stardev.io/developers/sergio11"><img alt="Check out sergio11's profile on stardev.io" src="https://stardev.io/developers/sergio11/badge/languages/global.svg" /></a>
+ 
 <p>
   <img height="220" src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true&show=reviews&theme=radical&count_private=true&hide_border=true&include_all_commits=false" />
   &nbsp;&nbsp;&nbsp;
@@ -109,11 +111,23 @@ Take a look at some of the repositories that best represent my work, passion, an
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=eclipserecon&theme=radical)](https://github.com/sergio11/eclipserecon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=traffic_sentinel_architecture&theme=radical)](https://github.com/sergio11/traffic_sentinel_architecture)
 
-## :star2: StarDev, Stackoverflow and Medium profiles
+## ✍️ Recent Articles on Medium
 
-<a href="https://stardev.io/developers/sergio11"><img alt="Check out sergio11's profile on stardev.io" src="https://stardev.io/developers/sergio11/badge/languages/global.svg" /></a>
+I’m passionate about sharing my knowledge on the technologies I work with, ranging from mobile development (📱 Android & iOS) to cutting-edge fields like generative AI (🤖 LLMs), cybersecurity (🔒), and big data architectures (📊). I enjoy exploring how these areas intersect and how they can drive innovation in modern software development.
 
-<a  href="https://sanchezsanchezsergio418.medium.com/"><img alt="Check out sergio11's profile on medium" src="https://github-readme-medium.vercel.app/?username=sanchezsanchezsergio418" /></a>
+- **[Fine-Tuning Large Language Models (LLMs): Techniques and Best Practices for Different Use Cases](https://sanchezsanchezsergio418.medium.com/fine-tuning-large-language-models-llms-techniques-and-best-practices-for-different-use-cases-97fab572a7a9)**  
+  A deep dive into LLM fine-tuning strategies, including supervised, RLHF, and task-specific tuning with hands-on examples.
+
+- **[Mastering Jetpack Compose & Android TV Architecture: 5 Projects That Will Transform Your Development Skills in 2025](https://sanchezsanchezsergio418.medium.com/mastering-jetpack-compose-android-tv-architecture-5-projects-that-will-transform-your-5a791b790f07)**  
+ A comprehensive guide to building production-ready Android TV apps using modern Compose and modular architecture.
+
+- **[Harnessing Generative AI for Post-Exploitation Vulnerability Reporting in Cybersecurity: A Practical Case Study](https://sanchezsanchezsergio418.medium.com/harnessing-generative-ai-for-post-exploitation-vulnerability-reporting-in-cybersecurity-a-5ba3e53958ec)**  
+  A case study on using generative AI for **data harvesting** from post-exploitation logs and automatically generating comprehensive, human-readable vulnerability reports. This approach aids in identifying potential system weaknesses, streamlining the process of fortifying systems against future attacks.
+
+- **[Traffic Sentinel: IoT Solution for Intelligent Road Surveillance and Monitoring](https://medium.com/@sanchezsanchezsergio418/traffic-sentinel-iot-solution-for-intelligent-road-surveillance-and-monitoring-d002110d431e)**  
+ A real-time FOG computing architecture for ingesting IP camera frames, processing them with Apache Flink and YOLO, and distributing results via Kafka. Designed for smart city surveillance, it balances edge inference with cloud analytics for efficient decision-making.
+
+🔗 See all articles at [medium](https://sanchezsanchezsergio418.medium.com/)
 
 ## 👨‍💻 Projects I Built for Fun (and Learning)
 

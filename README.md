@@ -137,6 +137,20 @@ These personal projects reflect my passion for technology, my love for clean arc
 
 I believe the best way to learn is by building.
 
+### 🏡✨ Home Decor & Design Ideas with Roomify 🎨🌿
+
+Roomify is your personal design companion — an innovative mobile app that makes transforming any space simple, inspiring, and fun! 💫
+
+Just snap a photo of any room 📸, and Roomify instantly analyzes it to give you personalized design tips, curated color palettes 🎨, and décor suggestions that perfectly match your style and space. No more endless scrolling or guesswork — get professional ideas at your fingertips in seconds!
+
+<p>
+	<img width=190 src="https://drive.google.com/uc?export=view&id=1DA1rJSqvEaypxYBVBmPimaM1IEGYfct-" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 src="https://drive.google.com/uc?export=view&id=12Zk7D6dyATuT3va6lE1Q0cpUxOZZkkqj" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 src="https://drive.google.com/uc?export=view&id=1z57rEm9y6HvVR7vippYyl2z4Vj0jtWCl" />
+</p>
+
 ### Passionfy 💕✨ - Where Love Begins 🌟❤️
 
 **Passionfy** is an iOS app I built to explore **SwiftUI** 🚀 and the art of crafting smooth, engaging user experiences. Designed to **bring people together** 🤝 by uncovering shared passions, it blends **elegance, functionality, and seamless animations** ✨.  

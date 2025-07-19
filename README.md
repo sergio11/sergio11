@@ -8,7 +8,7 @@
 
 <img width=256 align="right" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif" />
 
-👋 Hello, I'm an accomplished developer with over 9 years of experience, specializing in crafting exceptional mobile experiences 📱. As a seasoned Android developer, I've delivered a diverse portfolio of projects, demonstrating my commitment to building robust and user-friendly applications. Over the years, I've honed my skills to navigate the ever-evolving Android ecosystem, consistently pushing the boundaries of what's possible.
+👋 Hello, I'm an accomplished developer with over 10 years of experience, specializing in crafting exceptional mobile experiences 📱. As a seasoned Android developer, I've delivered a diverse portfolio of projects, demonstrating my commitment to building robust and user-friendly applications. Over the years, I've honed my skills to navigate the ever-evolving Android ecosystem, consistently pushing the boundaries of what's possible.
 
 * **🌟 iOS Proficiency:** In addition to my Android expertise, I'm a skilled native iOS developer. My proficiency extends to both major mobile platforms, allowing me to create seamless user experiences across Android and iOS devices.
 * **🚀 Venturing into Kotlin Multiplatform:** I'm also at the forefront of exploring Kotlin Multiplatform, an exciting cross-platform solution that promises cutting-edge mobility solutions. My journey into this technology is driven by a passion for pushing the boundaries of what's possible in the world of mobile development.
@@ -18,10 +18,6 @@
 * **🔒 Tech Enthusiast:** My enthusiasm for technology goes beyond app development. I have a profound interest in cybersecurity, IoT, and blockchain. My journey is marked by numerous educational achievements and certifications in these fields, uniquely equipping me to integrate these passions into my work. 🌐⛓️
 
 Let's connect and dive deep into all things tech! 💻💬
-
-## Profile Views
-
-<img width="200px" src="https://profile-counter.glitch.me/sergio11/count.svg" />
 
 ## :computer: Developer Skills
 

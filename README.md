@@ -106,6 +106,8 @@ Take a look at some of the repositories that best represent my work, passion, an
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=lyric_wave_architecture&theme=radical)](https://github.com/sergio11/lyric_wave_architecture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=eclipserecon&theme=radical)](https://github.com/sergio11/eclipserecon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=traffic_sentinel_architecture&theme=radical)](https://github.com/sergio11/traffic_sentinel_architecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=tvnexa_androidtv&theme=radical)](https://github.com/sergio11/tvnexa_androidtv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=art_niche_nft_marketplace&theme=radical)](https://github.com/sergio11/art_niche_nft_marketplace)
 
 ## ✍️ Recent Articles on Medium
 

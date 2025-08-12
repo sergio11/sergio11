@@ -135,6 +135,19 @@ These personal projects reflect my passion for technology, my love for clean arc
 
 I believe the best way to learn is by building.
 
+### VibeOnTV ⚽🎉: Your Ultimate Sports Experience on TV
+
+**VibeOnTV ⚽📺** is my sports streaming app for Android TV. It brings on-demand sports content to your Smart TV with a smooth experience powered by **Jetpack Compose for TV 📺** and the Fudge UI Kit 🍮. Designed to recreate the stadium vibe at home, it offers live games, replays, and behind-the-scenes content for every type of sports fan.
+
+The app serves as a **prototype to showcase UI/UX design** and Android TV development techniques applied to sports streaming concepts.
+
+<p>
+	<img width=370 loading="lazy" src="https://drive.google.com/uc?export=view&id=161PZnPGjM38N3Avuyp9B3Si7RC1GIKyn" />
+   	&nbsp;&nbsp;&nbsp;
+   	<img width=370 loading="lazy" src="https://drive.google.com/uc?export=view&id=1yPjiGQzJ1qHhdse3bqtlI3Vt9F2kGkqk" />
+   	&nbsp;&nbsp;&nbsp;	
+</p>
+
 ### 🏡✨ Home Decor & Design Ideas with Roomify 🎨🌿
 
 Roomify is your personal design companion — an innovative mobile app that makes transforming any space simple, inspiring, and fun! 💫

@@ -125,6 +125,9 @@ I’m passionate about sharing my knowledge on the technologies I work with, ran
 - **[Traffic Sentinel: IoT Solution for Intelligent Road Surveillance and Monitoring](https://medium.com/@sanchezsanchezsergio418/traffic-sentinel-iot-solution-for-intelligent-road-surveillance-and-monitoring-d002110d431e)**  
  A real-time FOG computing architecture for ingesting IP camera frames, processing them with Apache Flink and YOLO, and distributing results via Kafka. Designed for smart city surveillance, it balances edge inference with cloud analytics for efficient decision-making.
 
+- **[A Glimpse into AI-Powered Song Generation with LyricWave](https://sanchezsanchezsergio418.medium.com/a-glimpse-into-ai-powered-song-generation-with-lyricwave-fb071b9a0fe0)**  
+ LyricWave is a unique music generation platform that marries the creative art of songwriting with the advanced capabilities of artificial intelligence (AI).
+
 🔗 See all articles at [medium](https://sanchezsanchezsergio418.medium.com/)
 
 ## 👨‍💻 Projects I Built for Fun (and Learning)

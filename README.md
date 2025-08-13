@@ -403,20 +403,6 @@ Take a look at the repository by <a target="_blank" href="https://github.com/ser
 	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/movie_addicts_3.png" />
 </p>
 
-### Rick And Morty Kotlin Multiplatform Mobile App
-
-An App architecture example based on Kotlin Multiplatform Mobile.
-	
-Take a look at the repository by <a target="_blank" href="https://github.com/sergio11/RickAndMortyKMP">clicking here</a>
-
-<p>
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_1.png" />
-	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_3.png" />
-	&nbsp;&nbsp;&nbsp;
-	<img width=190 loading="lazy" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/rick_and_morty_2.png" />
-</p>
-
 ### 🌐📡 Unlocking IoT Potential with Apache Kafka and MQTT 🚀
 
 The Internet of Things (IoT) has ignited a revolution, flooding the digital realm with a myriad of devices. From smart factories to bustling smart cities, we're generating colossal streams of time series data. 🏭🏙️

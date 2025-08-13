@@ -138,6 +138,17 @@ These personal projects reflect my passion for technology, my love for clean arc
 
 I believe the best way to learn is by building.
 
+### HealthyCitizen 🏃‍♂️💪: Smart Fitness Tracking & Real-Time Running Analytics 📊💨
+
+HealthyCitizen 🏃‍♂️💪 is an advanced fitness tracking app that provides real-time analytics, interactive maps, and cloud synchronization for complete workout control. With seamless Wear OS integration, you can monitor your performance directly from your smartwatch. 📊⌚💥
+<p>
+	<img width=190 src="https://drive.google.com/uc?export=view&id=1ZERkVfPtzoP4ouBjT0jfjtMQh_88V8PM" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 src="https://drive.google.com/uc?export=view&id=1vtWsC11T9rIbP0k1Jvi0PLN43E63N-ix" />
+	&nbsp;&nbsp;&nbsp;
+	<img width=190 src="https://drive.google.com/uc?export=view&id=1U3kKoeKEMcoO4uWn06WcMqSA-hcYVH1T" />
+</p>
+
 ### VibeOnTV ⚽🎉: Your Ultimate Sports Experience on TV
 
 **VibeOnTV ⚽📺** is my sports streaming app for Android TV. It brings on-demand sports content to your Smart TV with a smooth experience powered by **Jetpack Compose for TV 📺** and the Fudge UI Kit 🍮. Designed to recreate the stadium vibe at home, it offers live games, replays, and behind-the-scenes content for every type of sports fan.

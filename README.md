@@ -117,18 +117,21 @@ I’m passionate about sharing my knowledge on the technologies I work with, ran
   A deep dive into LLM fine-tuning strategies, including supervised, RLHF, and task-specific tuning with hands-on examples.
 
 - **[Mastering Jetpack Compose & Android TV Architecture: 5 Projects That Will Transform Your Development Skills in 2025](https://sanchezsanchezsergio418.medium.com/mastering-jetpack-compose-android-tv-architecture-5-projects-that-will-transform-your-5a791b790f07)**  
- A comprehensive guide to building production-ready Android TV apps using modern Compose and modular architecture.
+  A comprehensive guide to building production-ready Android TV apps using modern Compose and modular architecture.
 
 - **[Harnessing Generative AI for Post-Exploitation Vulnerability Reporting in Cybersecurity: A Practical Case Study](https://sanchezsanchezsergio418.medium.com/harnessing-generative-ai-for-post-exploitation-vulnerability-reporting-in-cybersecurity-a-5ba3e53958ec)**  
   A case study on using generative AI for **data harvesting** from post-exploitation logs and automatically generating comprehensive, human-readable vulnerability reports. This approach aids in identifying potential system weaknesses, streamlining the process of fortifying systems against future attacks.
 
 - **[Traffic Sentinel: IoT Solution for Intelligent Road Surveillance and Monitoring](https://medium.com/@sanchezsanchezsergio418/traffic-sentinel-iot-solution-for-intelligent-road-surveillance-and-monitoring-d002110d431e)**  
- A real-time FOG computing architecture for ingesting IP camera frames, processing them with Apache Flink and YOLO, and distributing results via Kafka. Designed for smart city surveillance, it balances edge inference with cloud analytics for efficient decision-making.
+  A real-time FOG computing architecture for ingesting IP camera frames, processing them with Apache Flink and YOLO, and distributing results via Kafka. Designed for smart city surveillance, it balances edge inference with cloud analytics for efficient decision-making.
 
 - **[A Glimpse into AI-Powered Song Generation with LyricWave](https://sanchezsanchezsergio418.medium.com/a-glimpse-into-ai-powered-song-generation-with-lyricwave-fb071b9a0fe0)**  
- LyricWave is a unique music generation platform that marries the creative art of songwriting with the advanced capabilities of artificial intelligence (AI).
+  LyricWave is a unique music generation platform that marries the creative art of songwriting with the advanced capabilities of artificial intelligence (AI).
 
-🔗 See all articles at [medium](https://sanchezsanchezsergio418.medium.com/)
+- **[Scalable Big Data Movie Recommender with Lambda-Style Architecture](https://sanchezsanchezsergio418.medium.com/scalable-big-data-movie-recommender-with-lambda-style-architecture-0f73af882ea8)**  
+  A Proof of Concept (POC) of a **highly scalable, resilient movie recommendation system**. This project leverages **Lambda-style architecture**, combining **batch and streaming pipelines**, PySpark ALS collaborative filtering, Kafka CDC ingestion, HDFS storage, Airflow orchestration, and a Flask API to deliver **accurate, near real-time personalized recommendations**.
+
+🔗 See all articles at [Medium](https://sanchezsanchezsergio418.medium.com/)
 
 ## 👨‍💻 Projects I Built for Fun (and Learning)
 

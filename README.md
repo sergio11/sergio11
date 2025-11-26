@@ -100,14 +100,14 @@ Let's connect and dive deep into all things tech! 💻💬
 
 Take a look at some of the repositories that best represent my work, passion, and expertise across android development, backend systems, and AI innovation:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=vehicle_detection_tracker&theme=radical)](https://github.com/sergio11/vehicle_detection_tracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=fitflextv_android&theme=radical)](https://github.com/sergio11/fitflextv_android)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=document_search_engine_architecture&theme=radical)](https://github.com/sergio11/document_search_engine_architecture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=lyric_wave_architecture&theme=radical)](https://github.com/sergio11/lyric_wave_architecture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=eclipserecon&theme=radical)](https://github.com/sergio11/eclipserecon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=traffic_sentinel_architecture&theme=radical)](https://github.com/sergio11/traffic_sentinel_architecture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=tvnexa_androidtv&theme=radical)](https://github.com/sergio11/tvnexa_androidtv)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergio11&repo=art_niche_nft_marketplace&theme=radical)](https://github.com/sergio11/art_niche_nft_marketplace)
+- 📱 **[FitFlexTV Android](https://github.com/sergio11/fitflextv_android)** — Home workout app with personalized plans, progress tracking, and real-time Firebase data, built with Clean Architecture (MVI) and Jetpack Compose for TV.  
+- 🚗 **[Vehicle Detection & Tracker](https://github.com/sergio11/vehicle_detection_tracker)** — Real-time vehicle detection and tracking POC using YOLO to explore accuracy and adaptability in computer vision.  
+- 🔎 **[Document Search Engine Architecture](https://github.com/sergio11/document_search_engine_architecture)** — Scalable architecture for ETL-driven document search using Apache NiFi, Kafka, Spring Boot, MongoDB, and Elasticsearch.  
+- 🎵 **[LyricWave Architecture](https://github.com/sergio11/lyric_wave_architecture)** — AI-powered music generation using AudioCraft for melodies, Bark for vocals, and Stable Diffusion for cover art.  
+- 🌘 **[EclipseRecon](https://github.com/sergio11/eclipserecon)** — Cybersecurity practice tool for web reconnaissance: subdomain discovery, structure mapping, and vulnerability exploration.  
+- 🛰️ **[Traffic Sentinel Architecture](https://github.com/sergio11/traffic_sentinel_architecture)** — IoT system with Fog nodes and Apache Flink to process IP camera streams using YOLO for real-time traffic monitoring.  
+- 📺 **[TVNexa Android TV](https://github.com/sergio11/tvnexa_androidtv)** — Android TV project delivering worldwide channels while exploring best practices in TV-optimized app development.  
+- 🎨 **[ArtNiche NFT Marketplace](https://github.com/sergio11/art_niche_nft_marketplace)** — NFT marketplace for digital artists, built with Jetpack Compose to provide a smooth creative experience.
 
 ## ✍️ Recent Articles on Medium
 

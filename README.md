@@ -1,4 +1,4 @@
-# Hi, I'm Sergio Sánchez Sánchez 👋🏽
+# Hi, I'm Sergio 👋🏽
 
 <img src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/profile_header.jpg" style="max-width: 100%;" />
 
@@ -84,16 +84,6 @@ Let's connect and dive deep into all things tech! 💻💬
   <img loading="lazy" src="./images/oracle_database_logo.jpg" height="40">
   <img loading="lazy" src="./images/apache_maven_logo.png" height="40">
   <img loading="lazy" src="./images/apache_structs_logo.webp" height="40">
-</p>
-
-## 💳 Github Profile Summary Card
-
-<a href="https://stardev.io/developers/sergio11"><img alt="Check out sergio11's profile on stardev.io" src="https://stardev.io/developers/sergio11/badge/languages/global.svg" /></a>
- 
-<p>
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true&show=reviews&theme=radical&count_private=true&hide_border=true&include_all_commits=false" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio11&layout=compact&hide=Roff&langs_count=10&theme=dark" />
 </p>
 	
 ## 🧩 Featured Projects

@@ -8,16 +8,29 @@
 
 <img width=256 align="right" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif" />
 
-👋 Hello, I'm an accomplished developer with over 10 years of experience, specializing in crafting exceptional mobile experiences 📱. As a seasoned Android developer, I've delivered a diverse portfolio of projects, demonstrating my commitment to building robust and user-friendly applications. Over the years, I've honed my skills to navigate the ever-evolving Android ecosystem, consistently pushing the boundaries of what's possible.
+Senior Software engineer with over 11 years of experience building solutions across mobile, backend, and AI. Throughout my career, I've worked on everything from Android apps used by millions to distributed systems processing millions of events per second. But my real passion lies in exploring how these technologies connect — which is where my side projects come in.
 
-* **🌟 iOS Proficiency:** In addition to my Android expertise, I'm a skilled native iOS developer. My proficiency extends to both major mobile platforms, allowing me to create seamless user experiences across Android and iOS devices.
-* **🚀 Venturing into Kotlin Multiplatform:** I'm also at the forefront of exploring Kotlin Multiplatform, an exciting cross-platform solution that promises cutting-edge mobility solutions. My journey into this technology is driven by a passion for pushing the boundaries of what's possible in the world of mobile development.
-* **🤖 AI and LLM Expertise:** I have extensive knowledge in generative AI and Large Language Models (LLMs), continuously learning about Retrieval-Augmented Generation (RAG) techniques and agents. I am well-versed in orchestration frameworks such as LangChain and llamaIndex and work with LLMs like Llama3 and Mistral.
-* **💼 Versatility:** My server-side expertise is equally impressive, with experience in PHP (Symfony, Laravel, Silex, Slim), Python (Django, Flask), and Node.js (Express, Nest.js). However, my true love lies within the Spring ecosystem and JavaEE or Jakarta EE. ☕
-* **🏗️ Architect of Code:** Beyond coding, I'm an advocate for software architectures and clean code principles, firmly believing that well-structured code is the foundation of any great project. 🧹
-* **🔒 Tech Enthusiast:** My enthusiasm for technology goes beyond app development. I have a profound interest in cybersecurity, IoT, and blockchain. My journey is marked by numerous educational achievements and certifications in these fields, uniquely equipping me to integrate these passions into my work. 🌐⛓️
+My personal projects aren't polished products; they're experiments born from curiosity. I build to learn, to understand the trade-offs, and to stay current with an industry that never stops evolving. Everything I share here reflects that journey — from AI-powered mobile apps to real-time streaming pipelines.
 
-Let's connect and dive deep into all things tech! 💻💬
+## What I Build
+
+**📱 Mobile**
+- Native Android with Jetpack Compose, MVI, and Clean Architecture
+- iOS with SwiftUI for Apple platforms
+- Android TV apps with Compose for large screens
+- Kotlin Multiplatform for cross-platform sharing
+
+**⚙️ Backend**
+- Event-driven microservices with Spring Boot, Kafka, and Apache Flink
+- Ktor with GraalVM native images for ultra-fast startup
+- Real-time streaming architectures (IoT, analytics, recommendations)
+- Distributed systems: Redis Cluster, MariaDB Galera, MongoDB
+
+**🧠 AI & LLMs**
+- Retrieval-Augmented Generation (RAG) pipelines
+- Agent orchestration with LangChain, LangGraph, and CrewAI
+- Fine-tuning LLMs with QLoRA techniques
+- Computer vision: YOLO for detection, CNNs for classification
 
 ## :computer: Developer Skills
 

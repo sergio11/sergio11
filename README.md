@@ -12,19 +12,24 @@ Senior Software engineer with over 11 years of experience building solutions acr
 
 My personal projects aren't polished products; they're experiments born from curiosity. I build to learn, to understand the trade-offs, and to stay current with an industry that never stops evolving. Everything I share here reflects that journey — from AI-powered mobile apps to real-time streaming pipelines.
 
+What drives me is the intersection of technologies: how AI can enhance a mobile experience, how an event-driven architecture can scale, how clean architecture makes complex systems maintainable. That's where I find meaning.
+
 ## What I Build
 
 **📱 Mobile**
 - Native Android with Jetpack Compose, MVI, and Clean Architecture
-- iOS with SwiftUI for Apple platforms
-- Android TV apps with Compose for large screens
-- Kotlin Multiplatform for cross-platform sharing
+- iOS with SwiftUI for Apple platforms  
+- Flutter with BLoC/GetX for cross-platform apps
+- Android TV apps optimized for large screens
+- Kotlin Multiplatform for code sharing
 
-**⚙️ Backend**
+**⚙️ Backend & Big Data**
 - Event-driven microservices with Spring Boot, Kafka, and Apache Flink
 - Ktor with GraalVM native images for ultra-fast startup
-- Real-time streaming architectures (IoT, analytics, recommendations)
+- Real-time streaming with Apache Cassandra for time-series data
+- Big Data: Hadoop HDFS, Hive, Trino for large-scale queries
 - Distributed systems: Redis Cluster, MariaDB Galera, MongoDB
+- Blockchain: Solidity, Web3, IPFS for decentralized solutions
 
 **🧠 AI & LLMs**
 - Retrieval-Augmented Generation (RAG) pipelines

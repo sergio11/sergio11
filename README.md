@@ -1,4 +1,4 @@
-# Hi, I'm Sergio 👋🏽
+# Hi, I'm Sergio Sánchez 👋🏽
 
 <img src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/profile_header.jpg" style="max-width: 100%;" />
 
